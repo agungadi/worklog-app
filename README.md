@@ -26,8 +26,8 @@ Status worklog :
 ## addition JWT API
 Jalankan pada Postman :
 - Login = 127.0.0.1:8000/api/login
-- data user = = 127.0.0.1:8000/api/getuser
-- Melihat worklog + 127.0.0.1:8000/api/myworklog
+- data user =  127.0.0.1:8000/api/getuser
+- Melihat worklog = 127.0.0.1:8000/api/myworklog
 
 
 
