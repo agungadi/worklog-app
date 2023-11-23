@@ -19,7 +19,7 @@ Status worklog :
 - complete = worklog telah selesai dikerjakan (poin bertambah)
 
 ## Penjelasan Report
-- Report daily menammpilkan total jumlah kerja dan poin yang diperolah tiap hari dari jam_kerja/8.
+- Report daily menammpilkan total jumlah jam kerja dan poin yang diperolah tiap hari dari jam_kerja/8.
 - Report monthly menampilkan jumlah poin jam kerja selama sebulan, total poin hadir/presensi kerja, total jam kerja selama sebulan, total kehadiran/presensi selama sebulan, total absen/tidak masuk kerja selaam sebulan.
 - poin total hadir selama sebulan didapat dari jumlah_masuk_kerja/20
 
