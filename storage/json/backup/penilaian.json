@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja telah dibentuk",
+			"indikator_id": 1
+
+        },
+        {
+            "id": 2,
+            "name": "Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja telah melaksanakan tugas sesuai rencana kerja",
+			"indikator_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokras unit kerja telah melakukan monitoring dan evaluasi rencana kerja, dan hasil evaluasi telah ditindaklanjuti",
+			"indikator_id": 1
+
+        },
+        {
+            "id": 4,
+            "name": "Rencana Kerja Reformasi Unit Kerja telah disusun dan diformalkan",
+			"indikator_id": 2
+        },
+        {
+            "id": 5,
+            "name": "Telah terdapat sosialisasi/internalisasi Road Map/Rencana Kerja Reformasi Birokrasi unit kerja kepada anggota organisasi",
+			"indikator_id": 2
+
+        },
+        {
+            "id": 6,
+            "name": "Rencana Kerja Reformasi Birokrasi unit kerja selaras dengan Road Map",
+			"indikator_id": 2
+        },
+        {
+            "id": 7,
+            "name": "Pelaksanaan PMPRB dilakukan oleh Asesor sesuai dengan ketentuan yang berlaku",
+			"indikator_id": 3
+
+        },
+        {
+            "id": 8,
+            "name": "Para asesor mencapai konsensus atas pengisian kertas kerja sebelum menetapkan nilai PMPRB",
+			"indikator_id": 3
+        },
+        {
+            "id": 9,
+            "name": "Rencana aksi tindak lanjut (RATL) telah dikomunikasikan dan dilaksanakan",
+			"indikator_id": 3
+
+        },
+        {
+            "id": 10,
+            "name": "Penanggungjawab RB internal unit kerja telah melakukan pemantauan dan evaluasi pelaksanaan rencana kerja",
+			"indikator_id": 3
+        }
+        
+    ]
+}

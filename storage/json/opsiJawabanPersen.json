@@ -1,0 +1,502 @@
+{
+    "data": [
+        {
+            "name": "Jumlah Agen Perubahan",
+            "pernyataan_id": 101,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "jumlah Perubahan yang dibuat",
+            "pernyataan_id": 101,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Perubahan yang dibuat",
+            "pernyataan_id": 102,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Perubahan yang telah diintegrasikan dalam sistem manajemen",
+            "pernyataan_id": 102,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+		    "jenis_jawaban": "Persentase"
+        }, {
+            "name": "jumlah kebijakan terkait pelayanan dan atau perizinan baru yang terbit",
+            "pernyataan_id": 106,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah kebijakan terkait pelayanan dan atau perizinan yang terbit memuat unsur kemudahan dan efisiensi pelayanan utama instansi",
+            "pernyataan_id": 106,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah pelanggaran tahun sebelumnya",
+            "pernyataan_id": 116,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah pelanggaran tahun ini",
+            "pernyataan_id": 116,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah pelanggaran yang telah diberikan sanksi/hukuman",
+            "pernyataan_id": 116,
+            "jawaban": "C",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah program",
+            "pernyataan_id": 117,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah kegiatan",
+            "pernyataan_id": 117,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah program",
+            "pernyataan_id": 118,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah kegiatan",
+            "pernyataan_id": 118,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Sasaran Kinerja",
+            "pernyataan_id": 119,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Sasaran Kinerja yang tercapai 100% atau lebih",
+            "pernyataan_id": 119,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Anggaran Total",
+            "pernyataan_id": 120,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Anggaran yang berhasil direfocussing",
+            "pernyataan_id": 120,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah yang harus melaporkan",
+            "pernyataan_id": 124,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Eselon I/II",
+            "pernyataan_id": 124,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Lainnya",
+            "pernyataan_id": 124,
+            "jawaban": "C",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah yang sudah melaporkan",
+            "pernyataan_id": 124,
+            "jawaban": "D",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah yang harus melaporkan (ASN tidak wajib LHKPN)",
+            "pernyataan_id": 125,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Eselon III",
+            "pernyataan_id": 125,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Eselon IV",
+            "pernyataan_id": 125,
+            "jawaban": "C",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah Fungsional dan Pelaksana",
+            "pernyataan_id": 125,
+            "jawaban": "D",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah yang sudah melaporkan",
+            "pernyataan_id": 125,
+            "jawaban": "E",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah pengaduan masyarakat yang harus ditindaklanjuti",
+            "pernyataan_id": 126,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah pengaduan masyarakat yang sedang diproses",
+            "pernyataan_id": 126,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah pengaduan masyarakat yang  selesai ditindaklanjuti",
+            "pernyataan_id": 126,
+            "jawaban": "C",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah perijinan/pelayanan yang terdata/terdaftar",
+            "pernyataan_id": 128,
+            "jawaban": "A",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Jumlah perijinan/pelayanan yang telah dipermudah",
+            "pernyataan_id": 128,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }
+
+
+
+        ,
+        {
+            "name": "Bobot Indikator",
+            "pernyataan_id": 131,
+            "jawaban": "A",
+            "nilai": 7,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 131,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Bobot Indikator",
+            "pernyataan_id": 132,
+            "jawaban": "A",
+            "nilai": 10,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 132,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Bobot Indikator",
+            "pernyataan_id": 133,
+            "jawaban": "A",
+            "nilai": 10,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 133,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Bobot Indikator",
+            "pernyataan_id": 134,
+            "jawaban": "A",
+            "nilai": 5,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 134,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Bobot Indikator",
+            "pernyataan_id": 136,
+            "jawaban": "A",
+            "nilai": 3,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 136,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }
+
+        ,
+        {
+            "name": "Skala",
+            "pernyataan_id": 137,
+            "jawaban": "A",
+            "nilai": 400,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 137,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 138,
+            "jawaban": "A",
+            "nilai": 100,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 139,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 140,
+            "jawaban": "A",
+            "nilai": 4,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 140,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 141,
+            "jawaban": "A",
+            "nilai": 100,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 141,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 142,
+            "jawaban": "A",
+            "nilai": 5,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 142,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 143,
+            "jawaban": "A",
+            "nilai": 100,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 143,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 144,
+            "jawaban": "A",
+            "nilai": 5,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 144,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 145,
+            "jawaban": "A",
+            "nilai": 5,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 145,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 146,
+            "jawaban": "A",
+            "nilai": 5,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 146,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 147,
+            "jawaban": "A",
+            "nilai": 100,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 147,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        },
+        {
+            "name": "Skala",
+            "pernyataan_id": 148,
+            "jawaban": "A",
+            "nilai": 100,
+            "jumlah": "Jumlah tidak dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }, {
+            "name": "Indeks Jawaban Asesor",
+            "pernyataan_id": 148,
+            "jawaban": "B",
+            "nilai": 0,
+            "jumlah": "Jumlah dapat diubah",
+			"jenis_jawaban": "Persentase"
+        }
+]
+}

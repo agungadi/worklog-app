@@ -1,0 +1,880 @@
+{
+    "data": [
+  {
+	"id" : 1,
+    "kode_skpd": "1.01.0.00.0.00.01.0000",
+    "nama_skpd": "Dinas Pendidikan",
+    "tahun": 2022
+  },
+  {
+  	"id" : 2,
+    "kode_skpd": "1.02.2.14.0.00.03.0000",
+    "nama_skpd": "Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana",
+    "tahun": 2022
+  },
+  {
+  	"id" : 3,
+    "kode_skpd": "1.03.0.00.0.00.01.0000",
+    "nama_skpd": "Dinas Pekerjaan Umum dan Penataan Ruang",
+    "tahun": 2022
+  },
+  {
+  	"id" : 4,
+    "kode_skpd": "1.04.2.10.0.00.02.0000",
+    "nama_skpd": "Dinas Perumahan Rakyat dan Kawasan Permukiman",
+    "tahun": 2022
+  },
+  {
+  	"id" : 5,
+    "kode_skpd": "1.05.0.00.0.00.03.0000",
+    "nama_skpd": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran",
+    "tahun": 2022
+  },
+  {
+  	"id" : 6,
+    "kode_skpd": "1.05.0.00.0.00.04.0000",
+    "nama_skpd": "Badan Penanggulangan Bencana Daerah",
+    "tahun": 2022
+  },
+  {
+  	"id" : 7,
+    "kode_skpd": "1.06.2.08.0.00.02.0000",
+    "nama_skpd": "Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
+    "tahun": 2022
+  },
+  {
+	"id" : 8,
+    "kode_skpd": "2.07.2.17.3.31.10.0000",
+    "nama_skpd": "Dinas Tenaga Kerja, Koperasi Usaha Kecil Dan Menengah",
+    "tahun": 2022
+  },
+  {
+	"id" : 9,
+    "kode_skpd": "2.09.3.27.3.25.02.0000",
+    "nama_skpd": "Dinas Ketahanan Pangan dan Pertanian",
+    "tahun": 2022
+  },
+  {
+	"id" : 10,
+    "kode_skpd": "2.11.0.00.0.00.05.0000",
+    "nama_skpd": "Dinas Lingkungan Hidup",
+    "tahun": 2022
+  },
+  {
+	"id" : 11,
+    "kode_skpd": "2.12.2.24.0.00.01.0000",
+    "nama_skpd": "Dinas Kependudukan dan Pencatatan Sipil",
+    "tahun": 2022
+  },
+  {
+	"id" : 12,
+    "kode_skpd": "2.15.0.00.0.00.01.0000",
+    "nama_skpd": "Dinas Perhubungan",
+    "tahun": 2022
+  },
+  {
+	"id" : 13,
+    "kode_skpd": "2.16.2.20.2.21.04.0000",
+    "nama_skpd": "Dinas Komunikasi dan Informatika",
+    "tahun": 2022
+  },
+  {
+	"id" : 14,
+    "kode_skpd": "2.18.3.32.0.00.06.0000",
+    "nama_skpd": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "tahun": 2022
+  },
+  {
+	"id" : 15,
+    "kode_skpd": "2.22.2.19.3.26.04.0000",
+    "nama_skpd": "Dinas Kebudayaan, Pariwisata, Kepemudaan dan Olah Raga",
+    "tahun": 2022
+  },
+  {
+	"id" : 16,
+    "kode_skpd": "2.23.2.24.0.00.02.0000",
+    "nama_skpd": "Dinas Perpustakaan dan Kearsipan",
+    "tahun": 2022
+  },
+  {
+	"id" : 17,
+    "kode_skpd": "3.30.0.00.0.00.01.0000",
+    "nama_skpd": "Dinas Perdagangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 18,
+    "kode_skpd": "4.01.0.00.0.00.01.0000",
+    "nama_skpd": "Sekretariat Daerah",
+    "tahun": 2022
+  },
+  {
+	"id" : 19,
+    "kode_skpd": "4.02.0.00.0.00.01.0000",
+    "nama_skpd": "Sekretariat DPRD",
+    "tahun": 2022
+  },
+  {
+	"id" : 20,
+    "kode_skpd": "5.01.5.05.0.00.02.0000",
+    "nama_skpd": "Badan Perencanaan, Penelitian dan Pengembangan Daerah",
+    "tahun": 2022
+  },
+  {
+	"id" : 21,
+    "kode_skpd": "5.02.0.00.0.00.02.0000",
+    "nama_skpd": "Badan Keuangan dan Aset Daerah",
+    "tahun": 2022
+  },
+  {
+	"id" : 22,
+    "kode_skpd": "5.02.0.00.0.00.03.0000",
+    "nama_skpd": "Badan Pendapatan Daerah",
+    "tahun": 2022
+  },
+  {
+	"id" : 23,
+    "kode_skpd": "5.03.5.04.0.00.01.0000",
+    "nama_skpd": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+    "tahun": 2022
+  },
+  {
+	"id" : 24,
+    "kode_skpd": "6.01.0.00.0.00.01.0000",
+    "nama_skpd": "Inspektorat Daerah",
+    "tahun": 2022
+  },
+  {
+	"id" : 25,
+    "kode_skpd": "7.01.0.00.0.00.02.0000",
+    "nama_skpd": "Kecamatan Kartoharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 26,
+    "kode_skpd": "7.01.0.00.0.00.01.0000",
+    "nama_skpd": "Kecamatan Manguharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 27,
+    "kode_skpd": "7.01.0.00.0.00.03.0000",
+    "nama_skpd": "Kecamatan Taman",
+    "tahun": 2022
+  },
+  {
+	"id" : 28,
+    "kode_skpd": "8.01.0.00.0.00.01.0000",
+    "nama_skpd": "Badan Kesatuan Bangsa dan Politik",
+    "tahun": 2022
+  },
+  {
+	"id" : 29,
+    "kode_skpd": "4.01.0.00.0.00.01.01",
+    "nama_skpd": "Bagian Administrasi Pemerintahan Umum",
+    "tahun": 2022
+  },
+  {
+	"id" : 30,
+    "kode_skpd": "4.01.0.00.0.00.01.02",
+    "nama_skpd": "Bagian Organisasi",
+    "tahun": 2022
+  },
+  {
+	"id" : 31,
+    "kode_skpd": "4.01.0.00.0.00.01.03",
+    "nama_skpd": "Bagian Umum",
+    "tahun": 2022
+  },
+  {
+	"id" : 32,
+    "kode_skpd": "4.01.0.00.0.00.01.04",
+    "nama_skpd": "Bagian Hukum",
+    "tahun": 2022
+  },
+  {
+	"id" : 33,
+    "kode_skpd": "4.01.0.00.0.00.01.05",
+    "nama_skpd": "Bagian Administrasi Perekonomian dan Kesejahteraan Rakyat",
+    "tahun": 2022
+  },
+  {
+	"id" : 34,
+    "kode_skpd": "4.01.0.00.0.00.01.06",
+    "nama_skpd": "Bagian Administrasi Pembangunan",
+    "tahun": 2022
+  },
+  {
+	"id" : 35,
+    "kode_skpd": "1.02.2.14.0.00.03.0001",
+    "nama_skpd": "Rumah Sakit Umum Daerah Kota Madiun",
+    "tahun": 2022
+  },
+  {
+	"id" : 36,
+    "kode_skpd": "1.02.2.14.0.00.03.0002",
+    "nama_skpd": "Puskesmas Manguharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 37,
+    "kode_skpd": "1.02.2.14.0.00.03.0003",
+    "nama_skpd": "Puskesmas Ngegong",
+    "tahun": 2022
+  },
+  {
+	"id" : 38,
+    "kode_skpd": "1.02.2.14.0.00.03.0004",
+    "nama_skpd": "Puskesmas Sukosari",
+    "tahun": 2022
+  },
+  {
+  	"id" : 39,
+    "kode_skpd": "1.02.2.14.0.00.03.0005",
+    "nama_skpd": "Puskesmas Tawangrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 40,
+    "kode_skpd": "1.02.2.14.0.00.03.0006",
+    "nama_skpd": "Puskesmas Banjarejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 41,
+    "kode_skpd": "1.02.2.14.0.00.03.0007",
+    "nama_skpd": "Puskesmas Demangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 42,
+    "kode_skpd": "1.01.0.00.0.00.01.0001",
+    "nama_skpd": "SDN 01 Kartoharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 43,
+    "kode_skpd": "1.01.0.00.0.00.01.0002",
+    "nama_skpd": "SDN 02 Kartoharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 44,
+    "kode_skpd": "1.01.0.00.0.00.01.0003",
+    "nama_skpd": "SDN 03 Kartoharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 45,
+    "kode_skpd": "1.01.0.00.0.00.01.0004",
+    "nama_skpd": "SDN 01 Klegen",
+    "tahun": 2022
+  },
+  {
+	"id" : 46,
+    "kode_skpd": "1.01.0.00.0.00.01.0005",
+    "nama_skpd": "SDN 02 Klegen",
+    "tahun": 2022
+  },
+  {
+	"id" : 47,
+    "kode_skpd": "1.01.0.00.0.00.01.0006",
+    "nama_skpd": "SDN 03 Klegen",
+    "tahun": 2022
+  },
+  {
+	"id" : 48,
+    "kode_skpd": "1.01.0.00.0.00.01.0007",
+    "nama_skpd": "SDN 04 Klegen",
+    "tahun": 2022
+  },
+  {
+	"id" : 49,
+    "kode_skpd": "1.01.0.00.0.00.01.0008",
+    "nama_skpd": "SDN Oro Oro Ombo",
+    "tahun": 2022
+  },
+  {
+	"id" : 50,
+    "kode_skpd": "1.01.0.00.0.00.01.0009",
+    "nama_skpd": "SDN 01 Rejomulyo",
+    "tahun": 2022
+  },
+  {
+	"id" : 51,
+    "kode_skpd": "1.01.0.00.0.00.01.0010",
+    "nama_skpd": "SDN 02 Rejomulyo",
+    "tahun": 2022
+  },
+  {
+	"id" : 52,
+    "kode_skpd": "1.01.0.00.0.00.01.0011",
+    "nama_skpd": "SDN 01 Kanigoro",
+    "tahun": 2022
+  },
+  {
+	"id" : 53,
+    "kode_skpd": "1.01.0.00.0.00.01.0012",
+    "nama_skpd": "SDN 02 Kanigoro",
+    "tahun": 2022
+  },
+  {
+	"id" : 54,
+    "kode_skpd": "1.01.0.00.0.00.01.0013",
+    "nama_skpd": "SDN 03 Kanigoro",
+    "tahun": 2022
+  },
+  {	
+	"id" : 55,
+    "kode_skpd": "1.01.0.00.0.00.01.0014",
+    "nama_skpd": "SDN Sukosari",
+    "tahun": 2022
+  },
+  {
+	"id" : 56,
+    "kode_skpd": "1.01.0.00.0.00.01.0015",
+    "nama_skpd": "SDN Pilangbango",
+    "tahun": 2022
+  },
+  {
+	"id" : 57,
+    "kode_skpd": "1.01.0.00.0.00.01.0016",
+    "nama_skpd": "SDN 01 Tawangrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 58,
+    "kode_skpd": "1.01.0.00.0.00.01.0017",
+    "nama_skpd": "SDN 02 Tawangrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 59,
+    "kode_skpd": "1.01.0.00.0.00.01.0018",
+    "nama_skpd": "SDN Kelun",
+    "tahun": 2022
+  },
+  {
+	"id" : 60,
+    "kode_skpd": "1.01.0.00.0.00.01.0019",
+    "nama_skpd": "SDN 01 Manguharjo",
+    "tahun": 2022
+  },
+  {	
+	"id" : 61,
+    "kode_skpd": "1.01.0.00.0.00.01.0020",
+    "nama_skpd": "SDN 01 Nambangan Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 62,
+    "kode_skpd": "1.01.0.00.0.00.01.0021",
+    "nama_skpd": "SDN 02 Nambangan Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 63,
+    "kode_skpd": "1.01.0.00.0.00.01.0022",
+    "nama_skpd": "SDN 01 Madiun Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 64,
+    "kode_skpd": "1.01.0.00.0.00.01.0023",
+    "nama_skpd": "SDN 02 Madiun Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 65,
+    "kode_skpd": "1.01.0.00.0.00.01.0024",
+    "nama_skpd": "SDN 03 Madiun Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 66,
+    "kode_skpd": "1.01.0.00.0.00.01.0025",
+    "nama_skpd": "SDN 04 Madiun Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 67,
+    "kode_skpd": "1.01.0.00.0.00.01.0026",
+    "nama_skpd": "SDN 05 Madiun Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 68,
+    "kode_skpd": "1.01.0.00.0.00.01.0027",
+    "nama_skpd": "SDN 01 Nambangan Kidul",
+    "tahun": 2022
+  },
+  {
+	"id" : 69,
+    "kode_skpd": "1.01.0.00.0.00.01.0028",
+    "nama_skpd": "SDN 02 Nambangan Kidul",
+    "tahun": 2022
+  },
+  {
+	"id" : 70,
+    "kode_skpd": "1.01.0.00.0.00.01.0029",
+    "nama_skpd": "SDN 03 Nambangan Kidul",
+    "tahun": 2022
+  },
+  {
+	"id" : 71,
+    "kode_skpd": "1.01.0.00.0.00.01.0030",
+    "nama_skpd": "SDN 04 Nambangan Kidul",
+    "tahun": 2022
+  },
+  {
+	"id" : 72,
+    "kode_skpd": "1.01.0.00.0.00.01.0031",
+    "nama_skpd": "SDN 01 Winongo",
+    "tahun": 2022
+  },
+  {
+	"id" : 73,
+    "kode_skpd": "1.01.0.00.0.00.01.0032",
+    "nama_skpd": "SDN 02 Winongo",
+    "tahun": 2022
+  },
+  {
+	"id" : 74,
+    "kode_skpd": "1.01.0.00.0.00.01.0033",
+    "nama_skpd": "SDN Ngegong",
+    "tahun": 2022
+  },
+  {
+	"id" : 75,
+    "kode_skpd": "1.01.0.00.0.00.01.0034",
+    "nama_skpd": "SDN Patihan",
+    "tahun": 2022
+  },
+  {
+	"id" : 76,
+    "kode_skpd": "1.01.0.00.0.00.01.0035",
+    "nama_skpd": "SDN 01 Pangongangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 77,
+    "kode_skpd": "1.01.0.00.0.00.01.0036",
+    "nama_skpd": "SDN 02 Pangongangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 78,
+    "kode_skpd": "1.01.0.00.0.00.01.0037",
+    "nama_skpd": "SDN Sogaten",
+    "tahun": 2022
+  },
+  {
+	"id" : 79,
+    "kode_skpd": "1.01.0.00.0.00.01.0038",
+    "nama_skpd": "SDN 01 Taman",
+    "tahun": 2022
+  },
+  {
+	"id" : 80,
+    "kode_skpd": "1.01.0.00.0.00.01.0039",
+    "nama_skpd": "SDN 02 Taman",
+    "tahun": 2022
+  },
+  {
+	"id" : 81,
+    "kode_skpd": "1.01.0.00.0.00.01.0040",
+    "nama_skpd": "SDN 03 Taman",
+    "tahun": 2022
+  },
+  {
+	"id" : 82,
+    "kode_skpd": "1.01.0.00.0.00.01.0041",
+    "nama_skpd": "SDN 01 Pandean",
+    "tahun": 2022
+  },
+  {
+	"id" : 83,
+    "kode_skpd": "1.01.0.00.0.00.01.0042",
+    "nama_skpd": "SDN 02 Pandean",
+    "tahun": 2022
+  },
+  {
+	"id" : 84,
+    "kode_skpd": "1.01.0.00.0.00.01.0043",
+    "nama_skpd": "SDN Banjarejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 85,
+    "kode_skpd": "1.01.0.00.0.00.01.0044",
+    "nama_skpd": "SDN 01 Mojorejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 86,
+    "kode_skpd": "1.01.0.00.0.00.01.0045",
+    "nama_skpd": "SDN 02 Mojorejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 87,
+    "kode_skpd": "1.01.0.00.0.00.01.0046",
+    "nama_skpd": "SDN 01 Manisrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 88,
+    "kode_skpd": "1.01.0.00.0.00.01.0047",
+    "nama_skpd": "SDN 02 Manisrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 89,
+    "kode_skpd": "1.01.0.00.0.00.01.0048",
+    "nama_skpd": "SDN 03 Manisrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 90,
+    "kode_skpd": "1.01.0.00.0.00.01.0049",
+    "nama_skpd": "SDN 04 Manisrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 91,
+    "kode_skpd": "1.01.0.00.0.00.01.0050",
+    "nama_skpd": "SDN 01 Demangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 92,
+    "kode_skpd": "1.01.0.00.0.00.01.0051",
+    "nama_skpd": "SDN 02 Demangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 93,
+    "kode_skpd": "1.01.0.00.0.00.01.0052",
+    "nama_skpd": "SDN 01 Josenan",
+    "tahun": 2022
+  },
+  {
+	"id" : 94,
+    "kode_skpd": "1.01.0.00.0.00.01.0053",
+    "nama_skpd": "SDN 02 Josenan",
+    "tahun": 2022
+  },
+  {
+	"id" : 95,
+    "kode_skpd": "1.01.0.00.0.00.01.0054",
+    "nama_skpd": "SDN 03 Josenan",
+    "tahun": 2022
+  },
+  {
+	"id" : 96,
+    "kode_skpd": "1.01.0.00.0.00.01.0055",
+    "nama_skpd": "SDN Kejuron",
+    "tahun": 2022
+  },
+  {
+	"id" : 97,
+    "kode_skpd": "1.01.0.00.0.00.01.0056",
+    "nama_skpd": "SDN Kuncen",
+    "tahun": 2022
+  },
+  {
+	"id" : 98,
+    "kode_skpd": "1.01.0.00.0.00.01.0057",
+    "nama_skpd": "SMPN 1",
+    "tahun": 2022
+  },
+  {
+	"id" : 99,
+    "kode_skpd": "1.01.0.00.0.00.01.0058",
+    "nama_skpd": "SMPN 2",
+    "tahun": 2022
+  },
+  {
+	"id" : 100,
+    "kode_skpd": "1.01.0.00.0.00.01.0059",
+    "nama_skpd": "SMPN 3",
+    "tahun": 2022
+  },
+  {
+	"id" : 101,
+    "kode_skpd": "1.01.0.00.0.00.01.0060",
+    "nama_skpd": "SMPN 4",
+    "tahun": 2022
+  },
+  {
+	"id" : 102,
+    "kode_skpd": "1.01.0.00.0.00.01.0061",
+    "nama_skpd": "SMPN 5",
+    "tahun": 2022
+  },
+  {
+	"id" : 103,
+    "kode_skpd": "1.01.0.00.0.00.01.0062",
+    "nama_skpd": "SMPN 6",
+    "tahun": 2022
+  },
+  {
+	"id" : 104,
+    "kode_skpd": "1.01.0.00.0.00.01.0063",
+    "nama_skpd": "SMPN 7",
+    "tahun": 2022
+  },
+  {
+	"id" : 105,
+    "kode_skpd": "1.01.0.00.0.00.01.0064",
+    "nama_skpd": "SMPN 8",
+    "tahun": 2022
+  },
+  {
+	"id" : 106,
+    "kode_skpd": "1.01.0.00.0.00.01.0065",
+    "nama_skpd": "SMPN 9",
+    "tahun": 2022
+  },
+  {
+	"id" : 107,
+    "kode_skpd": "1.01.0.00.0.00.01.0066",
+    "nama_skpd": "SMPN 10",
+    "tahun": 2022
+  },
+  {
+	"id" : 108,
+    "kode_skpd": "1.01.0.00.0.00.01.0067",
+    "nama_skpd": "SMPN 11",
+    "tahun": 2022
+  },
+  {
+	"id" : 109,
+    "kode_skpd": "1.01.0.00.0.00.01.0068",
+    "nama_skpd": "SMPN 12",
+    "tahun": 2022
+  },
+  {
+	"id" : 110,
+    "kode_skpd": "1.01.0.00.0.00.01.0069",
+    "nama_skpd": "SMPN 13",
+    "tahun": 2022
+  },
+  {
+	"id" : 111,
+    "kode_skpd": "1.01.0.00.0.00.01.0070",
+    "nama_skpd": "SMPN 14",
+    "tahun": 2022
+  },
+  {
+	"id" : 112,
+    "kode_skpd": "4.01.0.00.0.00.01.0001",
+    "nama_skpd": "Bagian Pemerintahan",
+    "tahun": 2022
+  },
+  {
+	"id" : 113,
+    "kode_skpd": "4.01.0.00.0.00.01.0002",
+    "nama_skpd": "Bagian Organisasi",
+    "tahun": 2022
+  },
+  {
+	"id" : 114,
+    "kode_skpd": "4.01.0.00.0.00.01.0003",
+    "nama_skpd": "Bagian Hukum",
+    "tahun": 2022
+  },
+  {
+	"id" : 115,
+    "kode_skpd": "4.01.0.00.0.00.01.0004",
+    "nama_skpd": "Bagian Pengadaan Barang / Jasa dan Administrasi Pembangunan",
+    "tahun": 2022
+  },
+  {
+	"id" : 116,
+    "kode_skpd": "4.01.0.00.0.00.01.0005",
+    "nama_skpd": "Bagian Perekonomian dan Kesejahteraan Rakyat",
+    "tahun": 2022
+  },
+  {
+	"id" : 117,
+    "kode_skpd": "4.01.0.00.0.00.01.0006",
+    "nama_skpd": "Bagian Umum",
+    "tahun": 2022
+  },
+  {
+	"id" : 118,
+    "kode_skpd": "7.01.0.00.0.00.02.0001",
+    "nama_skpd": "Kelurahan Oro-Oro Ombo",
+    "tahun": 2022
+  },
+  {
+	"id" : 119,
+    "kode_skpd": "7.01.0.00.0.00.02.0002",
+    "nama_skpd": "Kelurahan Sukosari",
+    "tahun": 2022
+  },
+  {
+	"id" : 120,
+    "kode_skpd": "7.01.0.00.0.00.02.0003",
+    "nama_skpd": "Kelurahan Klegen",
+    "tahun": 2022
+  },
+  {
+	"id" : 121,
+    "kode_skpd": "7.01.0.00.0.00.02.0004",
+    "nama_skpd": "Kelurahan Rejomulyo",
+    "tahun": 2022
+  },
+  {
+	"id" : 122,
+    "kode_skpd": "7.01.0.00.0.00.02.0005",
+    "nama_skpd": "Kelurahan Pilangbango",
+    "tahun": 2022
+  },
+  {
+	"id" : 123,
+    "kode_skpd": "7.01.0.00.0.00.02.0006",
+    "nama_skpd": "Kelurahan Tawangrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 124,
+    "kode_skpd": "7.01.0.00.0.00.02.0007",
+    "nama_skpd": "Kelurahan Kanigoro",
+    "tahun": 2022
+  },
+  {
+	"id" : 125,
+    "kode_skpd": "7.01.0.00.0.00.02.0008",
+    "nama_skpd": "Kelurahan Kartoharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 126,
+    "kode_skpd": "7.01.0.00.0.00.02.0009",
+    "nama_skpd": "Kelurahan Kelun",
+    "tahun": 2022
+  },
+  {
+	"id" : 127,
+    "kode_skpd": "7.01.0.00.0.00.01.0001",
+    "nama_skpd": "Kelurahan Manguharjo",
+    "tahun": 2022
+  },
+  {
+	"id" : 128,
+    "kode_skpd": "7.01.0.00.0.00.01.0002",
+    "nama_skpd": "Kelurahan Sogaten",
+    "tahun": 2022
+  },
+  {
+	"id" : 129,
+    "kode_skpd": "7.01.0.00.0.00.01.0003",
+    "nama_skpd": "Kelurahan Patihan",
+    "tahun": 2022
+  },
+  {
+	"id" : 130,
+    "kode_skpd": "7.01.0.00.0.00.01.0004",
+    "nama_skpd": "Kelurahan Ngegong",
+    "tahun": 2022
+  },
+  {
+	"id" : 131,
+    "kode_skpd": "7.01.0.00.0.00.01.0005",
+    "nama_skpd": "Kelurahan Winongo",
+    "tahun": 2022
+  },
+  {
+	"id" : 132,
+    "kode_skpd": "7.01.0.00.0.00.01.0006",
+    "nama_skpd": "Kelurahan Madiun Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 133,
+    "kode_skpd": "7.01.0.00.0.00.01.0007",
+    "nama_skpd": "Kelurahan Pangongangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 134,
+    "kode_skpd": "7.01.0.00.0.00.01.0008",
+    "nama_skpd": "Kelurahan Nambangan Lor",
+    "tahun": 2022
+  },
+  {
+	"id" : 135,
+    "kode_skpd": "7.01.0.00.0.00.01.0009",
+    "nama_skpd": "Kelurahan Nambangan Kidul",
+    "tahun": 2022
+  },
+  {
+	"id" : 136,
+    "kode_skpd": "7.01.0.00.0.00.03.0001",
+    "nama_skpd": "Kelurahan Mojorejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 137,
+    "kode_skpd": "1.02.0.00.0.00.71.0000",
+    "nama_skpd": "RUMAH SAKIT UMUM DAERAH",
+    "tahun": 2022
+  },
+  {
+	"id" : 138,
+    "kode_skpd": "2.07.0.00.0.00.72.0000",
+    "nama_skpd": "Dinas Tenaga Kerja",
+    "tahun": 2022
+  },
+  {
+	"id" : 139,
+    "kode_skpd": "7.01.0.00.0.00.03.0002",
+    "nama_skpd": "Kelurahan Pandean",
+    "tahun": 2022
+  },
+  {
+	"id" : 140,
+    "kode_skpd": "7.01.0.00.0.00.03.0003",
+    "nama_skpd": "Kelurahan Banjarejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 141,
+    "kode_skpd": "7.01.0.00.0.00.03.0004",
+    "nama_skpd": "Kelurahan Kuncen",
+    "tahun": 2022
+  },
+  {
+	"id" : 142,
+    "kode_skpd": "7.01.0.00.0.00.03.0005",
+    "nama_skpd": "Kelurahan Manisrejo",
+    "tahun": 2022
+  },
+  {
+	"id" : 143,
+    "kode_skpd": "7.01.0.00.0.00.03.0006",
+    "nama_skpd": "Kelurahan Kejuron",
+    "tahun": 2022
+  },
+  {
+	"id" : 144,
+    "kode_skpd": "7.01.0.00.0.00.03.0007",
+    "nama_skpd": "Kelurahan Josenan",
+    "tahun": 2022
+  },
+  {
+	"id" : 145,
+    "kode_skpd": "7.01.0.00.0.00.03.0008",
+    "nama_skpd": "Kelurahan Demangan",
+    "tahun": 2022
+  },
+  {
+	"id" : 146,
+    "kode_skpd": "7.01.0.00.0.00.03.0009",
+    "nama_skpd": "Kelurahan Taman",
+    "tahun": 2022
+  }
+]
+}

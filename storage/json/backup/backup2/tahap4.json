@@ -1,0 +1,245 @@
+{
+    "data": [
+        {
+            "name": "Tim Reformasi Birokrasi",
+			"subkomponen_id" : 1,
+			"bobot" : 0.4
+        },
+        {
+            "name": "Road Map Reformasi Birokrasi",
+			"subkomponen_id" : 1,
+			"bobot" : 0.4
+        },
+        {
+            "name": "Pemantauan dan Evaluasi Reformasi Birokrasi",
+			"subkomponen_id" : 1,
+			"bobot" : 0.8
+        },
+        {
+            "name": "Perubahan pola pikir dan budaya kinerja",
+			"subkomponen_id" : 1,
+			"bobot" : 0.4
+        },
+        {
+            "name": "Harmonisasi",
+			"subkomponen_id" : 2,
+			"bobot" : 1
+        },
+        {
+            "name": "Evaluasi Kelembagaan",
+			"subkomponen_id" : 3,
+			"bobot" : 1
+        },
+        {
+            "name": "Tindak Lanjut Evaluasi",
+			"subkomponen_id" : 3,
+			"bobot" : 1
+        },
+        {
+            "name": "Proses bisnis dan prosedur operasional tetap (SOP)",
+			"subkomponen_id" : 4,
+			"bobot" : 0.5
+        },
+        {
+            "name": "Keterbukaan Informasi Publik",
+			"subkomponen_id" : 4,
+			"bobot" : 0.5
+        },
+        {
+            "name": "Perencanaan Kebutuhan Pegawai sesuai dengan Kebutuhan Organisasi",
+			"subkomponen_id" : 5,
+			"bobot" : 0.2
+        },
+        {
+            "name": "Pengembangan Pegawai Berbasis Kompetensi",
+			"subkomponen_id" : 5,
+			"bobot" : 0.2
+        },
+        {
+            "name": "Penetapan Kinerja Individu",
+			"subkomponen_id" : 5,
+			"bobot" : 0.4
+        },
+        {
+            "name": "Penegakan Aturan Disiplin/Kode Etik/Kode Perilaku Pegawai",
+			"subkomponen_id" : 5,
+			"bobot" : 0.2
+        },
+        {
+            "name": "Pelaksanaan Evaluasi Jabatan",
+			"subkomponen_id" : 5,
+			"bobot" : 0.2
+        },
+        {
+            "name": "Sistem Informasi Kepegawaian",
+			"subkomponen_id" : 5,
+			"bobot" : 0.2
+        },
+        {
+            "name": "Keterlibatan pimpinan",
+			"subkomponen_id" : 6,
+			"bobot" : 1
+        },
+        {
+            "name": "Pengelolaan Akuntabilitas Kinerja",
+			"subkomponen_id" : 6,
+			"bobot" : 1.5
+        },
+        {
+            "name": "Gratifikasi",
+			"subkomponen_id" : 7,
+			"bobot" : 0.3
+        },
+        {
+            "name": "Penerapan SPIP",
+			"subkomponen_id" : 7,
+			"bobot" : 0.3
+        },
+        {
+            "name": "Pengaduan Masyarakat",
+			"subkomponen_id" : 7,
+			"bobot" : 0.5
+        },
+        {
+            "name": "Whistle Blowing System",
+			"subkomponen_id" : 7,
+			"bobot" : 0.3
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan",
+			"subkomponen_id" : 7,
+			"bobot" : 0.3
+        },
+		{
+            "name": "Pembangunan Zona Integritas",
+			"subkomponen_id" : 7,
+			"bobot" : 0.5
+        },
+        {
+            "name": "Standar Pelayanan",
+			"subkomponen_id" : 8,
+			"bobot" : 0.4
+        },
+        {
+            "name": "Budaya Pelayanan Prima",
+			"subkomponen_id" : 8,
+			"bobot" : 0.4
+        },
+        {
+            "name": "Pengelolaan Pengaduan",
+			"subkomponen_id" : 8,
+			"bobot" : 0.6
+        },
+        {
+            "name": "Penilaian kepuasan terhadap pelayanan",
+			"subkomponen_id" : 8,
+			"bobot" : 0.7
+        },
+        {
+            "name": "Pemanfaatan Teknologi Informasi",
+			"subkomponen_id" : 8,
+			"bobot" : 0.4
+		},
+        {
+            "name": "Komitmen dalam Perubahan",
+			"subkomponen_id" : 9,
+			"bobot" : 1.5
+		},
+        {
+            "name": "Komitmen Pimpinan",
+			"subkomponen_id" : 9,
+			"bobot" : 1
+		},
+        {
+            "name": "Membangun Budaya Kerja",
+			"subkomponen_id" : 9,
+			"bobot" : 0.5
+		},
+        {
+            "name": "Peran Kebijakan",
+			"subkomponen_id" : 10,
+			"bobot" : 2
+		},
+        {
+            "name": "Organisasi Berbasis Kinerja",
+			"subkomponen_id" : 11,
+			"bobot" : 1.5
+		},
+        {
+            "name": "Peta Proses Bisnis Mempengaruhi Penyederhanaan Jabatan",
+			"subkomponen_id" : 12,
+			"bobot" : 0.5
+		},
+        {
+            "name": "Sistem Pemerintahan Berbasis Elektronik (SPBE) yang Terintegrasi",
+			"subkomponen_id" : 12,
+			"bobot" : 1.25
+		},
+        {
+            "name": "Transformasi Digital Memberikan Nilai Manfaat",
+			"subkomponen_id" : 12,
+			"bobot" : 2
+		},
+        {
+            "name": "Kinerja Individu",
+			"subkomponen_id" : 13,
+			"bobot" : 1
+		},
+        {
+            "name": "Assessment Pegawai",
+			"subkomponen_id" : 13,
+			"bobot" : 0.5
+		},
+        {
+            "name": "Pelanggaran Disiplin Pegawai",
+			"subkomponen_id" : 13,
+			"bobot" : 0.5
+		},
+        {
+            "name": "Efektifitas dan Efisiensi Anggaran",
+			"subkomponen_id" : 14,
+			"bobot" : 1
+		},
+        {
+            "name": "Pemanfaatan Aplikasi Akuntabilitas Kinerja",
+			"subkomponen_id" : 14,
+			"bobot" : 1
+		},
+        {
+            "name": "Pemberian Reward and Punishment",
+			"subkomponen_id" : 14,
+			"bobot" : 1
+		},
+        {
+            "name": "Kerangka Logis Kinerja",
+			"subkomponen_id" : 14,
+			"bobot" : 0.75
+		},
+        {
+            "name": "Penyampaian Laporan Harta Kekayaan Pejabat Negara (LHKPN)",
+			"subkomponen_id" : 15,
+			"bobot" : 0.75
+		},
+        {
+            "name": "Penyampaian Laporan Harta Kekayaan Aparatur Sipil Negara (LHKASN)",
+			"subkomponen_id" : 15,
+			"bobot" : 0.6
+		},
+        {
+            "name": "Penanganan Pengaduan Masyarakat",
+			"subkomponen_id" : 15,
+			"bobot" : 0.6
+		},
+        {
+            "name": "Upaya dan/atau Inovasi Pelayanan Publik",
+			"subkomponen_id" : 16,
+			"bobot" : 2.5
+		},
+        {
+            "name": "Penanganan Pengaduan Pelayanan dan Konsultasi",
+			"subkomponen_id" : 16,
+			"bobot" : 1.25
+		}
+
+    ]
+}

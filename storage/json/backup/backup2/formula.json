@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "nama": "Jumlah perubahan dibagi jumlah agen Perubahan",
+			"id_pernyataan" : 101,
+			"rumus" : "B / A"
+        },
+		{
+            "nama": "Jumlah Perubahan yang telah diintegrasikan dalam sistem manajemen dibagi jumlah perubahan yang dibuat",
+			"id_pernyataan" : 102,
+			"rumus" : "B / A"
+        },
+		{
+            "nama": "Persentase diperoleh dari Jumlah kebijakan terkait pelayanan dan atau perizinan yang terbit memuat unsur kemudahan dan efisiensi pelayanan utama instansi dibagi dengan Jumlah kebijakan terkait pelayanan dan atau perizinan baru yang terbit",
+			"id_pernyataan" : 106,
+			"rumus" : "B / A"
+        },
+		{
+            "nama": "Persentase pernurunan pelanggaran disiplin pegawai diperoleh dari Jumlah pelanggaran tahun sebelumnya dikurangi Jumlah pelanggaran tahun ini kemudian dibagi dengan Jumlah pelanggaran tahun sebelumnya",
+			"id_pernyataan" : 116,
+			"rumus" : "(A - B) / A"
+        },
+		{
+            "nama": "Rumus RB belum di tentukan oleh excel admin mohon di isi",
+			"id_pernyataan" : 117,
+			"rumus" : "B / A"
+        },
+		{
+            "nama": "Rumus RB belum di tentukan oleh excel admin mohon di isi",
+			"id_pernyataan" : 118,
+			"rumus" : "B / A"
+        },
+		{
+            "nama": "Persentase diperoleh dari Jumlah Sasaran Kinerja yang tercapai 100% atau lebih dibagi dengan Jumlah Sasaran Kinerja",
+			"id_pernyataan" : 119,
+			"rumus" : "B / A"
+        },
+		{
+            "nama": "Mendukung tercapainya kinerja utama organisasi artinya Sasaran Kinerja tercapai 100% atau lebih Persentase diperoleh dari Jumlah Anggaran yang berhasil direfocussing dibagi dengan Jumlah Anggaran Total",
+			"id_pernyataan" : 120,
+			"rumus" : "B / A"
+        },
+		{
+            "nama": "eselon ditambah lainnya kemudian  dibagi jumlah yang harus melaporkan",
+			"id_pernyataan" : 124,
+			"rumus" : "D / (B + C)"
+        },
+		{
+            "nama": "Jumlah Perubahan yang telah diintegrasikan dalam sistem manajemen dibagi jumlah perubahan yang dibuat",
+			"id_pernyataan" : 125,
+			"rumus" : " A / (B + C + D)"
+        },
+        {
+            "nama": "Jumlah pengaduan masyarakat yang  selesai ditindaklanjuti dibagi  Jumlah pengaduan masyarakat yang harus ditindaklanjuti",
+			"id_pernyataan" : 126,
+			"rumus" : "C / A"
+        },
+		{
+            "nama": "Persentase diperoleh dari Jumlah perijinan/pelayanan yang telah dipermudah dibagi dengan Jumlah perijinan/pelayanan yang terdata/terdaftar",
+			"id_pernyataan" : 128,
+			"rumus" : "B / A"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": " Telah membentuk Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai kebutuhan organisasi",
+            "pernyataan_id": 1,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 2,
+            "name": "Telah membentuk Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja namun tanpa ketetapan formal",
+            "pernyataan_id": 1,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+
+        },
+        {
+            "id": 3,
+            "name": " Belum membentuk Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja",
+            "pernyataan_id": 1,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+
+        },
+        {
+            "id": 4,
+            "name": "Seluruh tugas telah dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+
+        },
+        {
+            "id": 5,
+            "name": "Sebagian besar tugas telah dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 6,
+            "name": "Sebagian kecil tugas telah dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 7,
+            "name": "Belum ada tugas yang dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 8,
+            "name": "Seluruh rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti ",
+            "pernyataan_id": 3,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },	
+        {
+            "id": 9,
+            "name": "Sebagian besar rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti",
+            "pernyataan_id": 3,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 10,
+            "name": "Sebagian kecil rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti",
+            "pernyataan_id": 3,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 11,
+            "name": "Rencana kerja belum dimonitoring dan di evaluasi",
+            "pernyataan_id": 3,
+            "jawaban": "D",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },	
+        {
+            "id": 12,
+            "name": "Rencana Kerja Reformasi Unit Kerja telah disusun dan diformalkan",
+            "pernyataan_id": 4,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 13,
+            "name": "Rencana Kerja Reformasi Unit Kerja telah disusun dan diformalkan",
+            "pernyataan_id": 4,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 14,
+            "name": "Seluruh anggota organisasi telah mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },	
+        {
+            "id": 15,
+            "name": "Sebagian besar anggota organisasi telah mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 16,
+            "name": "Sebagian kecil anggota organisasi telah mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 17,
+            "name": "Belum ada anggota organisasi yang mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },	
+        {
+            "id": 18,
+            "name": "Rencana Kerja telah menyajikan prioritas perbaikan, target waktu, penanggungjawab, dan telah diformalkan serta telah selaras dengan Road Map",
+            "pernyataan_id": 6,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 19,
+            "name": "Rencana Kerja telah menyajikan prioritas perbaikan, target waktu, penanggungjawab, dan telah diformalkan, namun belum selaras dengan Road Map ",
+            "pernyataan_id": 6,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "id": 20,
+            "name": "Rencana Kerja belum menyajikan prioritas perbaikan, target waktu, dan penanggungjawabRencana Kerja belum menyajikan prioritas perbaikan, target waktu, dan penanggungjawab",
+            "pernyataan_id": 6,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        }   
+    ]
+}

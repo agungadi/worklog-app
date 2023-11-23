@@ -1,0 +1,203 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Tim Reformasi Birokrasi",
+			"subkomponen_id" : 1,
+			"bobot" : 0.4
+        },
+        {
+            "id": 2,
+            "name": "Road Map Reformasi Birokrasi",
+			"subkomponen_id" : 1,
+			"bobot" : 0.4
+        },
+        {
+            "id": 3,
+            "name": "Pemantauan dan Evaluasi Reformasi Birokrasi",
+			"subkomponen_id" : 1,
+			"bobot" : 0.8
+        },
+        {
+            "id": 4,
+            "name": "Perubahan pola pikir dan budaya kinerja",
+			"subkomponen_id" : 1,
+			"bobot" : 0.4
+        },
+        {
+            "id": 5,
+            "name": "Harmonisasi",
+			"subkomponen_id" : 2,
+			"bobot" : 0.5
+        },
+        {
+            "id": 6,
+            "name": "Sistem pengendalian dalam penyusunan peraturan perundang-undangan",
+			"subkomponen_id" : 2,
+			"bobot" : 0.5
+        },
+        {
+            "id": 7,
+            "name": "Evaluasi",
+			"subkomponen_id" : 3,
+			"bobot" : 1
+        },
+        {
+            "id": 8,
+            "name": "Penataan",
+			"subkomponen_id" : 3,
+			"bobot" : 1
+        },
+        {
+            "id": 9,
+            "name": "Proses bisnis dan prosedur operasional tetap (SOP) kegiatan utama ",
+			"subkomponen_id" : 4,
+			"bobot" : 0.6
+        },
+        {
+            "id": 10,
+            "name": "E-Government",
+			"subkomponen_id" : 4,
+			"bobot" : 0.8
+        },
+        {
+            "id": 11,
+            "name": "Keterbukaan Informasi Publik",
+			"subkomponen_id" : 4,
+			"bobot" : 0.6
+        },
+        {
+            "id": 12,
+            "name": "Perencanaan kebutuhan pegawai sesuai dengan kebutuhan organisasi",
+			"subkomponen_id" : 5,
+			"bobot" : 0.33
+        },
+        {
+            "id": 13,
+            "name": "Proses penerimaan pegawai transparan, objektif, akuntabel dan bebas KKN",
+			"subkomponen_id" : 5,
+			"bobot" : 0.67
+        },
+        {
+            "id": 14,
+            "name": "Pengembangan pegawai berbasis kompetensi",
+			"subkomponen_id" : 5,
+			"bobot" : 0.33
+        },
+        {
+            "id": 15,
+            "name": "Promosi jabatan dilakukan secara terbuka",
+			"subkomponen_id" : 5,
+			"bobot" : 2
+        },
+        {
+            "id": 16,
+            "name": "Penetapan kinerja individu",
+			"subkomponen_id" : 5,
+			"bobot" : 0.67
+        },
+        {
+            "id": 17,
+            "name": "Penegakan aturan disiplin/kode etik/kode perilaku pegawai",
+			"subkomponen_id" : 5,
+			"bobot" : 0.33
+        },
+        {
+            "id": 18,
+            "name": "Pelaksanaan evaluasi jabatan",
+			"subkomponen_id" : 5,
+			"bobot" : 0.33
+        },
+        {
+            "id": 19,
+            "name": "Sistem Informasi Kepegawaian",
+			"subkomponen_id" : 5,
+			"bobot" : 0.33
+        },
+        {
+            "id": 20,
+            "name": "Keterlibatan pimpinan",
+			"subkomponen_id" : 6,
+			"bobot" : 0.67
+        },
+        {
+            "id": 21,
+            "name": "Pengelolaan Akuntabilitas Kinerja",
+			"subkomponen_id" : 6,
+			"bobot" : 1.33
+        },
+        {
+            "id": 22,
+            "name": "Gratifikasi",
+			"subkomponen_id" : 7,
+			"bobot" : 0.5
+        },
+        {
+            "id": 23,
+            "name": "Penerapan SPIP",
+			"subkomponen_id" : 7,
+			"bobot" : 0.5
+        },
+        {
+            "id": 24,
+            "name": "Pengaduan Masyarakat",
+			"subkomponen_id" : 7,
+			"bobot" : 0.67
+        },
+        {
+            "id": 25,
+            "name": "Whistle-Blowing System",
+			"subkomponen_id" : 7,
+			"bobot" : 0.5
+        },
+        {
+            "id": 26,
+            "name": "Penanganan Benturan Kepentingan",
+			"subkomponen_id" : 7,
+			"bobot" : 0.5
+        },        
+		{
+            "id": 27,
+            "name": "Pembangunan Zona Integritas",
+			"subkomponen_id" : 7,
+			"bobot" : 0.83
+        },
+        {
+            "id": 28,
+            "name": "Aparat Pengawasan Intern Pemerintah(APIP)",
+			"subkomponen_id" : 7,
+			"bobot" : 0.5
+        },
+        {
+            "id": 29,
+            "name": "Standar Pelayanan",
+			"subkomponen_id" : 8,
+			"bobot" : 0.33
+        },
+        {
+            "id": 30,
+            "name": "Budaya Pelayanan Prima",
+			"subkomponen_id" : 8,
+			"bobot" : 0.33
+        },
+        {
+            "id": 31,
+            "name": "Pengelolaan Pengaduan",
+			"subkomponen_id" : 8,
+			"bobot" : 0.5
+        },
+        {
+            "id": 32,
+            "name": "Penilaian kepuasan terhadap pelayanan",
+			"subkomponen_id" : 8,
+			"bobot" : 0.5
+        },
+        {
+            "id": 33,
+            "name": "Pemanfaatan Teknologi Informasi",
+			"subkomponen_id" : 8,
+			"bobot" : 0.33
+		}
+        		
+    ]
+}

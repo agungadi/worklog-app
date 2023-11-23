@@ -1,0 +1,144 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "MANAJEMEN PERUBAHAN",
+			"komponen_id" : 1,
+			"bobot" : 2
+
+        },
+        {
+            "id": 2,
+            "name": "DEREGULASI KEBIJAKAN",
+			"komponen_id" : 1,
+			"bobot" : 1
+        },
+		{
+            "id": 3,
+            "name": "PENATAAN DAN PENGUATAN ORGANISASI",
+			"komponen_id" : 1,
+			"bobot" : 2
+        },
+		{
+            "id": 4,
+            "name": "PENATAAN TATALAKSANA",
+			"komponen_id" : 1,
+			"bobot" : 2.5
+        },
+		{
+            "id": 5,
+            "name": "PENATAAN SISTEM MANAJEMEN SDM",
+			"komponen_id" : 1,
+			"bobot" : 3
+        },
+		{
+            "id": 6,
+            "name": "PENGUATAN AKUNTABILITAS",
+			"komponen_id" : 1,
+			"bobot" : 2.5
+        },
+		{
+            "id": 7,
+            "name": "PENGUATAN PENGAWASAN",
+			"komponen_id" : 1,
+			"bobot" : 2.5
+        },
+		{
+            "id": 8,
+            "name": "PENINGKATAN KUALITAS PELAYANAN PUBLIK",
+			"komponen_id" : 1,
+			"bobot" : 2.5
+        },
+		{
+            "id": 9,
+            "name": "DEREGULASI KEBIJAKAN",
+			"komponen_id" : 2,
+			"bobot" : 1
+        },
+		{
+            "id": 10,
+            "name": "PENATAAN DAN PENGUATAN ORGANISASI",
+			"komponen_id" : 2,
+			"bobot" : 1
+        },
+		{
+            "id": 11,
+            "name": "PENATAAN TATALAKSANA",
+			"komponen_id" : 2,
+			"bobot" : 1
+        },
+		{
+            "id": 12,
+            "name": "PENATAAN SISTEM MANAJEMEN SDM",
+			"komponen_id" : 2,
+			"bobot" : 2.5
+        },
+		{
+            "id": 13,
+            "name": "DPENGUATAN AKUNTABILITAS",
+			"komponen_id" : 2,
+			"bobot" : 1.25
+        },
+		{
+            "id": 14,
+            "name": "PENGUATAN PENGAWASAN",
+			"komponen_id" : 2,
+			"bobot" : 2
+        },
+		{
+            "id": 15,
+            "name": "PENINGKATAN KUALITAS PELAYANAN PUBLIK",
+			"komponen_id" : 2,
+			"bobot" : 1.25
+        },
+		{
+            "id": 16,
+            "name": "MANAJEMEN PERUBAHAN",
+			"komponen_id" : 3,
+			"bobot" : 2.5
+        },
+		{
+            "id": 17,
+            "name": "DEREGULASI KEBIJAKAN",
+			"komponen_id" : 3,
+			"bobot" : 2.5
+        },
+		{
+            "id": 18,
+            "name": "PENATAAN DAN PENGUATAN ORGANISASI",
+			"komponen_id" : 3,
+			"bobot" : 3
+        },
+		{
+            "id": 19,
+            "name": "PENATAAN TATALAKSANA",
+			"komponen_id" : 3,
+			"bobot" : 2.5
+        },
+		{
+            "id": 20,
+            "name": "PENATAAN SISTEM MANAJEMEN SDM",
+			"komponen_id" : 3,
+			"bobot" : 7.5
+        },
+		{
+            "id": 21,
+            "name": "PENGUATAN AKUNTABILITAS",
+			"komponen_id" : 3,
+			"bobot" : 3
+        },
+		{
+            "id": 22,
+            "name": "PENGUATAN PENGAWASAN",
+			"komponen_id" : 3,
+			"bobot" : 6
+        },
+		{
+            "id": 23,
+            "name": "PENINGKATAN KUALITAS PELAYANAN PUBLIK",
+			"komponen_id" : 3,
+			"bobot" : 3
+        }		
+       
+    ]
+}

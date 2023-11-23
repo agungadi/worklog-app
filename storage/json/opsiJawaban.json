@@ -1,0 +1,2971 @@
+{
+    "data": [
+        {
+            "name": " Telah membentuk Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai kebutuhan organisasi",
+            "pernyataan_id": 1,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah membentuk Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja namun tanpa ketetapan formal",
+            "pernyataan_id": 1,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+
+        },
+        {
+            "name": " Belum membentuk Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja",
+            "pernyataan_id": 1,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+
+        },
+        {
+            "name": "Seluruh tugas telah dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+
+        },
+        {
+            "name": "Sebagian besar tugas telah dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil tugas telah dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada tugas yang dilaksanakan oleh Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja sesuai dengan rencana kerja",
+            "pernyataan_id": 2,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti ",
+            "pernyataan_id": 3,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti",
+            "pernyataan_id": 3,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti",
+            "pernyataan_id": 3,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Rencana kerja belum dimonitoring dan di evaluasi",
+            "pernyataan_id": 3,
+            "jawaban": "D",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Rencana Kerja Reformasi Unit Kerja telah disusun dan diformalkan",
+            "pernyataan_id": 4,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Rencana Kerja Reformasi Unit Kerja telah disusun dan diformalkan",
+            "pernyataan_id": 4,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh anggota organisasi telah mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar anggota organisasi telah mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil anggota organisasi telah mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada anggota organisasi yang mendapatkan sosialisasi dan internalisasi Rencana Kerja Reformasi Birokrasi",
+            "pernyataan_id": 5,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Rencana Kerja telah menyajikan prioritas perbaikan, target waktu, penanggungjawab, dan telah diformalkan serta telah selaras dengan Road Map",
+            "pernyataan_id": 6,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Rencana Kerja telah menyajikan prioritas perbaikan, target waktu, penanggungjawab, dan telah diformalkan, namun belum selaras dengan Road Map ",
+            "pernyataan_id": 6,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Rencana Kerja belum menyajikan prioritas perbaikan, target waktu, dan penanggungjawabRencana Kerja belum menyajikan prioritas perbaikan, target waktu, dan penanggungjawab",
+            "pernyataan_id": 6,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat penunjukan keikutsertaan pejabat struktural lapis kedua sebagai asesor PMPRB dan yang bersangkutan terlibat sepenuhnya sejak tahap awal hingga akhir proses PMPRB",
+            "pernyataan_id": 7,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat penunjukan keikutsertaan pejabat struktural lapis kedua sebagai asesor PMPRB, tetapi partisipasinya tidak meliputi seluruh proses PMPRB",
+            "pernyataan_id": 7,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat penetapan pejabat struktural lapis kedua sebagai asesor PMPRB, tetapi fungsi asesor dari unit tersebut dilakukan oleh pegawai lain ",
+            "pernyataan_id": 7,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada partisipasi pejabat struktural lapis kedua sebagai asesor PMPRB",
+            "pernyataan_id": 7,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Mayoritas koordinator assessor mencapai konsensus dan seluruh kriteria dibahas ",
+            "pernyataan_id": 8,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak seluruh koordinator  assessor mencapai konsensus dan/atau tidak seluruh kriteria dibahas",
+            "pernyataan_id": 8,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Para asesor ebelum menetapkan nilai PMPRB dan/atau tidak ada kriteria yang dibahas",
+            "pernyataan_id": 8,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat Rencana Aksi dan Tindak Lanjut (RATL) yang telah dikomunikasikan dan dilaksanakan",
+            "pernyataan_id": 9,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat Rencana Aksi dan Tindak Lanjut (RATL) namun belum dikomunikasikan dan dilaksanakan",
+            "pernyataan_id": 9,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum terdapat Rencana Aksi Tindak Lanjut (RATL)",
+            "pernyataan_id": 9,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti",
+            "pernyataan_id": 10,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti",
+            "pernyataan_id": 10,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil rencana kerja telah dimonitoring dan di evaluasi, dan hasil evaluasi telah ditindaklanjuti",
+            "pernyataan_id": 10,
+            "jawaban": "C",
+            "nilai": 33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Rencana kerja belum dimonitoring dan di evaluasi",
+            "pernyataan_id": 10,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara aktif dan berkelanjutan dalam seluruh pelaksanaan Reformasi Birokras",
+            "pernyataan_id": 11,
+            "jawaban": "A",
+            "nilai": 1,
+		    "jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara aktif dan berkelanjutan dalam sebagian besar pelaksanaan Reformasi Birokrasi",
+            "pernyataan_id": 11,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara aktif dan berkelanjutan dalam sebagian kecil pelaksanaan Reformasi Birokrasi",
+            "pernyataan_id": 11,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja belum terlibat secara aktif dan berkelanjutan dalam pelaksanaan Reformasi Birokrasi",
+            "pernyataan_id": 11,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah terdapat Agent of Change dan role model yang dibentuk secara formal dan telah memberikan kontribusi perubahan terhadap unit kerja",
+            "pernyataan_id": 12,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah terdapat Agent of Change dan role model  yang dibentuk secara formal namun belum memberikan kontribusi perubahan terhadap unit kerja",
+            "pernyataan_id": 12,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sudah terdapat upaya pembentukan Agent of Change dan role model  namun secara formal belum dilakukan",
+            "pernyataan_id": 12,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada upaya untuk membentuk Agent of Change dan role model",
+            "pernyataan_id": 12,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan identifikasi, analisis, dan pemetaan terhadap seluruh kebijakan yang tidak harmonis/sinkron/bersifat menghambat ",
+            "pernyataan_id": 13,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan identifikasi, analisis, dan pemetaan terhadap sebagian kebijakan yang tidak harmonis/sinkron/bersifat menghambat",
+            "pernyataan_id": 13,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan identifikasi, analisis, dan pemetaan terhadap kebijakan yang tidak harmonis/sinkron/bersifat menghambat",
+            "pernyataan_id": 13,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Revisi atas kebijakan yang tidak harmonis/tidak sinkron/bersifat menghambat telah selesai dilakukan, atau tidak ditemukan adanya kebijakan yang tidak harmonis",
+            "pernyataan_id": 14,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Upaya revisi atas kebijakan yang tidak harmonis/tidak sinkron/bersifat menghambat telah dilakukan, namun belum selesai",
+            "pernyataan_id": 14,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan upaya revisi atas kebijakann yang tidak harmonis/tidak sinkron/ bersifat menghambat",
+            "pernyataan_id": 14,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi untuk menilai ketepatan seluruh fungsi dan ukuran organisasi",
+            "pernyataan_id": 15,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi untuk menilai ketepatan sebagian fungsi dan ukuran organisasi",
+            "pernyataan_id": 15,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi untuk menilai ketepatan fungsi dan ukuran organisasi",
+            "pernyataan_id": 15,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang mengukur seluruh jenjang organisasi",
+            "pernyataan_id": 16,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang mengukur sebagian jenjang organisasi",
+            "pernyataan_id": 16,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi yang mengukur jenjang organisasi",
+            "pernyataan_id": 16,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis seluruh kemungkinan duplikasi fungsi",
+            "pernyataan_id": 17,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis sebagian kemungkinan duplikasi fungsi",
+            "pernyataan_id": 17,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi yang menganalisis kemungkinan duplikasi fungsi",
+            "pernyataan_id": 17,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemungkinan seluruh pejabat  melapor kepada lebih dari seorang atasan",
+            "pernyataan_id": 18,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemungkinan sebagian pejabat  melapor kepada lebih dari seorang atasan",
+            "pernyataan_id": 18,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum  dilakukan evaluasi yang menganalisis kemungkinan adanya pejabat yang melapor kepada lebih dari seorang atasan",
+            "pernyataan_id": 18,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi kesesuaian seluruh tugas dan fungsi dengan sasaran kinerja",
+            "pernyataan_id": 19,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi kesesuaian sebagian tugas dan fungsi dengan sasaran kinerja",
+            "pernyataan_id": 19,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi kesesuaian tugas dan fungsi dengan sasaran kinerja",
+            "pernyataan_id": 19,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah disusun struktur organisasi yang mempunyai rentang kendali yang luas dengan jumlah struktur yang langsung dibawahnya",
+            "pernyataan_id": 20,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah disusun struktur organisasi yang mempunyai rentang kendali yang sedang dengan jumlah struktur yang langsung dibawahnya",
+            "pernyataan_id": 20,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah disusun struktur organisasi yang mempunyai rentang kendali yang sempit dengan jumlah struktur yang langsung dibawahnya",
+            "pernyataan_id": 20,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kesesuaian seluruh struktur organisasi dengan kinerja yang akan dihasilkan",
+            "pernyataan_id": 21,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kesesuaian sebagian struktur organisasi dengan kinerja yang akan dihasilkan",
+            "pernyataan_id": 21,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi yang menganalisis kesesuaian struktur organisasi dengan kinerja yang akan dihasilkan",
+            "pernyataan_id": 21,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi  atas kesesuaian seluruh struktur organisasi dengan mandat",
+            "pernyataan_id": 22,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi  atas kesesuaian sebagian struktur organisasi dengan mandat",
+            "pernyataan_id": 22,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi atas kesesuaian struktur organisasi dengan mandat",
+            "pernyataan_id": 22,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemungkinan tumpang tindih seluruh fungsi",
+            "pernyataan_id": 23,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemungkinan tumpang tindih sebagian fungsi",
+            "pernyataan_id": 23,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi yang menganalisis kemungkinan tumpang tindih fungsi",
+            "pernyataan_id": 23,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemampuan seluruh struktur organisasi untuk adaptif terhadap perubahan lingkungan strategis",
+            "pernyataan_id": 24,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemampuan sebagian struktur organisasi untuk adaptif terhadap perubahan lingkungan strategis",
+            "pernyataan_id": 24,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi yang menganalisis kemampuan struktur organisasi untuk adaptif terhadap perubahan lingkungan strategis",
+            "pernyataan_id": 24,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh hasil evaluasi telah ditindaklanjuti dengan mengajukan perubahan organisasi",
+            "pernyataan_id": 25,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar hasil evaluasi telah ditindaklanjuti dengan mengajukan perubahan organisasi",
+            "pernyataan_id": 25,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil hasil evaluasi telah ditindaklanjuti dengan mengajukan perubahan organisasi",
+            "pernyataan_id": 25,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hasil evaluasi belum ditindaklanjuti",
+            "pernyataan_id": 25,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh hasil evaluasi telah ditindaklanjuti dengan mengajukan penyederhanaan birokrasi ",
+            "pernyataan_id": 26,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar hasil evaluasi telah ditindaklanjuti dengan mengajukan penyederhanaan birokrasi ",
+            "pernyataan_id": 26,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil hasil evaluasi telah ditindaklanjuti dengan mengajukan penyederhanaan birokrasi ",
+            "pernyataan_id": 26,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Hasil evaluasi belum  ditindaklanjuti",
+            "pernyataan_id": 26,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh peta proses bisnis telah disusun sesuai dengan pedoman penyusunan Peta Proses Bisnis Kementerian/Lembaga/Pemerintah Daerah",
+            "pernyataan_id": 27,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian peta proses bisnis telah disusun sesuai dengan pedoman penyusunan Peta Proses Bisnis Kementerian/Lembaga/Pemerintah Daerah",
+            "pernyataan_id": 27,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta proses bisnis belum disusun sesuai dengan pedoman penyusunan Peta Proses Bisnis Kementerian/Lembaga/Pemerintah Daerah",
+            "pernyataan_id": 27,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh peta proses bisnis telah sesuai dengan tugas dan fungsi",
+            "pernyataan_id": 28,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian peta proses bisnis telah sesuai dengan tugas dan fungsi",
+            "pernyataan_id": 28,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta proses bisnis belum sesuai dengan tugas dan fungsi",
+            "pernyataan_id": 28,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh peta proses bisnis telah sesuai dengan dokumen rencana strategis dan rencana kerja organisasi",
+            "pernyataan_id": 29,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian peta proses bisnis telah sesuai dengan sebagian dokumen rencana strategis dan rencana kerja organisasi",
+            "pernyataan_id": 29,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta proses bisnis belum sesuai dengan dokumen rencana strategis dan rencana kerja organisasi",
+            "pernyataan_id": 29,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Setiap jenjang organisasi telah memiliki peta proses bisnis yang selaras dengan kinerja",
+            "pernyataan_id": 30,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar  jenjang organisasi telah memiliki peta proses bisnis yang selaras dengan kinerja",
+            "pernyataan_id": 30,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil jenjang organisasi telah memiliki peta proses bisnis yang selaras dengan kinerja",
+            "pernyataan_id": 30,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil jenjang organisasi telah memiliki peta proses bisnis yang selaras dengan kinerja",
+            "pernyataan_id": 30,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh peta proses bisnis telah dijabarkan dalam SOP",
+            "pernyataan_id": 31,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar peta proses bisnis telah dijabarkan dalam SOP",
+            "pernyataan_id": 31,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Sebagian kecil peta proses bisnis telah dijabarkan dalam SOP ",
+            "pernyataan_id": 31,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Sebagian kecil peta proses bisnis telah dijabarkan dalam SOP ",
+            "pernyataan_id": 31,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan penjabaran seluruh peta lintas fungsi (peta level n) ke dalam SOP",
+            "pernyataan_id": 32,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan penjabaran sebagian peta lintas fungsi (peta level n) ke dalam SOP",
+            "pernyataan_id": 32,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan penjabaran peta lintas fungsi (peta level n) ke dalam SOP",
+            "pernyataan_id": 32,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh Prosedur operasional tetap (SOP) telah diterapkan",
+            "pernyataan_id": 33,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar Prosedur operasional tetap (SOP) telah diterapkan",
+            "pernyataan_id": 33,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil Prosedur operasional tetap (SOP) telah diterapkan",
+            "pernyataan_id": 33,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh Prosedur operasional tetap (SOP) belum diterapkan",
+            "pernyataan_id": 33,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat evaluasi terhadap efisiensi dan efektivitas peta proses bisnis dan SOP secara berkala dan seluruh hasilnya telah ditindaklanjuti",
+            "pernyataan_id": 34,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat evaluasi terhadap efisiensi dan efektivitas peta proses bisnis dan SOP secara berkala namun belum seluruh hasilnya ditindaklanjuti",
+            "pernyataan_id": 34,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat evaluasi namun belum menganalisis efisiensi dan efektivitas peta proses bisnis dan SOP",
+            "pernyataan_id": 34,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada evaluasi terhadap efisiensi dan efektifitas peta proses bisnis dan prosedur operasional",
+            "pernyataan_id": 34,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi terhadap seluruh peta proses bisnis yang sesuai dengan efektivitas hubungan kerja antar unit organisasi untuk menghasilkan kinerja sesuai dengan tujuan pendirian organisasi",
+            "pernyataan_id": 35,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan evaluasi terhadap sebagian peta proses bisnis yang sesuai dengan efektivitas hubungan kerja antar unit organisasi untuk menghasilkan kinerja sesuai dengan tujuan pendirian organisasi",
+            "pernyataan_id": 35,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi terhadap peta proses bisnis yang sesuai dengan efektivitas hubungan kerja antar unit organisasi untuk menghasilkan kinerja sesuai dengan tujuan pendirian organisasi",
+            "pernyataan_id": 35,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila telah ada kebijakan pimpinan tentang keterbukaan informasi publik",
+            "pernyataan_id": 36,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila telah ada kebijakan pimpinan tentang keterbukaan informasi publik",
+            "pernyataan_id": 36,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Monitoring dan evaluasi pelaksanaan kebijakan keterbukaan informasi publik dilakukan secara berkala",
+            "pernyataan_id": 37,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Monitoring dan evaluasi pelaksanaan kebijakan keterbukaan informasi publik dilakukan  tidak berkala",
+            "pernyataan_id": 37,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada monitoring dan evaluasi pelaksanaan kebijakan keterbukaan informasi publik",
+            "pernyataan_id": 37,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Perhitungan kebutuhan pegawai telah dilakukan sesuai kebutuhan unit kerja",
+            "pernyataan_id": 38,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Perhitungan kebutuhan pegawai telah dilakukan namun belum sesuai kebutuhan unit kerja",
+            "pernyataan_id": 38,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Perhitungan kebutuhan pegawai belum dilakukan",
+            "pernyataan_id": 38,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Analisis seluruh  jabatan dan  beban kerja telah dilakukan",
+            "pernyataan_id": 39,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Analisis sebagian  jabatan dan  beban kerja telah dilakukan",
+            "pernyataan_id": 39,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Analisis jabatan dan analisis beban kerja belum dilakukan ",
+            "pernyataan_id": 39,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Analisis jabatan dan analisis beban kerja telah sesuai kinerja yang dihasilkan",
+            "pernyataan_id": 40,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Analisis jabatan dan analisis beban kerja telah dilakukan kepada seluruh jabatan namun belum sesuai kinerja yang dihasilkan",
+            "pernyataan_id": 40,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Analisis jabatan dan analisis beban kerja hanya dilakukan kepada sebagian jabatan",
+            "pernyataan_id": 40,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Analisis jabatan dan analisis beban kerja belum dilakukan",
+            "pernyataan_id": 40,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah diidentifikasi kebutuhan pengembangan kompetensi kepada seluruh pegawai ",
+            "pernyataan_id": 41,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah diidentifikasi kebutuhan pengembangan kompetensi kepada sebagian besar pegawai",
+            "pernyataan_id": 41,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah diidentifikasi kebutuhan pengembangan kompetensi kepada sebagian kecil pegawai ",
+            "pernyataan_id": 41,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan identifikasi kebutuhan  pengembangan kompetensi pegawai ",
+            "pernyataan_id": 41,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan pengembangan berbasis kompetensi kepada seluruh pegawai sesuai dengan rencana  dan kebutuhan pengembangan kompetensi ",
+            "pernyataan_id": 42,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan pengembangan berbasis kompetensi kepada sebagian besar pegawai sesuai dengan rencana  dan kebutuhan pengembangan kompetensi ",
+            "pernyataan_id": 42,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan pengembangan berbasis kompetensi kepada sebagian kecil pegawai sesuai dengan rencana  dan kebutuhan pengembangan kompetensi  ",
+            "pernyataan_id": 42,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada pengembangan pegawai berbasis kompetensi",
+            "pernyataan_id": 42,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penerapan penetapan kinerja individu telah dilakukan terhadap seluruh pegawai",
+            "pernyataan_id": 43,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penerapan penetapan kinerja individu telah dilakukan terhadap sebagian besar pegawai",
+            "pernyataan_id": 43,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penerapan penetapan kinerja individu telah dilakukan terhadap sebagian kecil pegawai",
+            "pernyataan_id": 43,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada penerapan penetapan kinerja individu ",
+            "pernyataan_id": 43,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh penilaian kinerja individu terkait dengan kinerja organisasi",
+            "pernyataan_id": 44,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar penilaian kinerja individu terkait dengan kinerja organisasi",
+            "pernyataan_id": 44,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil penilaian kinerja individu terkait dengan kinerja organisasi ",
+            "pernyataan_id": 44,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Penilaian kinerja individu belum terkait dengan kinerja organisasi",
+            "pernyataan_id": 44,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh ukuran kinerja individu sesuai dengan indikator kinerja individu level diatasnya",
+            "pernyataan_id": 45,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar ukuran kinerja individu sesuai dengan indikator kinerja individu level diatasnya",
+            "pernyataan_id": 45,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil ukuran kinerja individu sesuai dengan indikator kinerja individu level diatasnya",
+            "pernyataan_id": 45,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ukuran kinerja individu belum ada yang sesuai dengan indikator kinerja individu level diatasnya",
+            "pernyataan_id": 45,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengukuran kinerja individu dilakukan secara bulanan",
+            "pernyataan_id": 46,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengukuran kinerja individu dilakukan secara triwulanan",
+            "pernyataan_id": 46,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengukuran kinerja individu dilakukan secara semesteran",
+            "pernyataan_id": 46,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengukuran kinerja individu dilakukan secara tahunan",
+            "pernyataan_id": 46,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengukuran kinerja individu belum dilakukan",
+            "pernyataan_id": 46,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan monev atas pencapaian kinerja individu secara bulanan",
+            "pernyataan_id": 47,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan monev atas pencapaian kinerja individu secara triwulanan",
+            "pernyataan_id": 47,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan monev atas pencapaian kinerja individu secara semesteran",
+            "pernyataan_id": 47,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan monev atas pencapaian kinerja individu secara tahunan",
+            "pernyataan_id": 47,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan monev atas pencapaian kinerja individu",
+            "pernyataan_id": 47,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Seluruh hasil penilaian kinerja individu telah dijadikan dasar untuk pengembangan karir individu/pemberian reward and punishment lainnya",
+            "pernyataan_id": 48,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar hasil penilaian kinerja individu telah dijadikan dasar untuk pengembangan karir individu/pemberian reward and punishment lainnya",
+            "pernyataan_id": 48,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil penilaian kinerja individu telah dijadikan dasar untuk pengembangan karir individu/pemberian reward and punishment lainnya",
+            "pernyataan_id": 48,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hasil penilaian kinerja individu belum dijadikan dasar untuk pemberian reward and punishment lainnya",
+            "pernyataan_id": 48,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh aturan disiplin/kode etik/kode perilaku instansi telah diimplementasikan",
+            "pernyataan_id": 49,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar aturan disiplin/kode etik/kode perilaku instansi telah diimplementasikan",
+            "pernyataan_id": 49,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil aturan disiplin/kode etik/kode perilaku instansi telah diimplementasikan",
+            "pernyataan_id": 49,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Aturan disiplin/kode etik/kode perilaku instansi belum diimplementasikan",
+            "pernyataan_id": 49,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Adanya monev atas pelaksanaan aturan disiplin/kode etik/kode perilaku  secara berkala",
+            "pernyataan_id": 50,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Adanya monev atas pelaksanaan aturan disiplin/kode etik/kode perilaku tidak berkala",
+            "pernyataan_id": 50,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada monev atas pelaksanaan aturan disiplin/kode etik/kode perilaku ",
+            "pernyataan_id": 50,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja telah mengimplementasikan SKJ  pada seluruh jabatan sesuai kebutuhan unit kerja ",
+            "pernyataan_id": 51,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja  mengimplementasikan SKJ  pada seluruh jabatan sesuai kebijakan pusat",
+            "pernyataan_id": 51,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja  hanya mengimplementasikan SKJ  pada sebagian jabatan",
+            "pernyataan_id": 51,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "SKJ belum diimplementasi",
+            "pernyataan_id": 51,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Evaluasi jabatan telah dilaksanakan pada seluruh jabatan berdasarkan SKJ dan telah memberikan dampak pengembangan SDM",
+            "pernyataan_id": 52,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Evaluasi jabatan telah dilaksanakan pada seluruh jabatan berdasarkan SKJ namun belum memberikan dampak pengembangan SDM",
+            "pernyataan_id": 52,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Evaluasi jabatan hanya dilaksanakan pada sebagian jabatan berdasarkan SKJ",
+            "pernyataan_id": 52,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Evaluasi Jabatan dilaksanakan belum berdasarkan SKJ",
+            "pernyataan_id": 52,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Evaluasi Jabatan belum dilaksanakan",
+            "pernyataan_id": 52,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila pegawai dapat mengakses sistem informasi kepegawaian",
+            "pernyataan_id": 53,
+            "jawaban": "YA",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila pegawai dapat mengakses sistem informasi kepegawaian",
+            "pernyataan_id": 53,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada seluruh penyusunan Renstra",
+            "pernyataan_id": 54,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada sebagian besar penyusunan Renstra",
+            "pernyataan_id": 54,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada sebagian kecil penyusunan Renstra",
+            "pernyataan_id": 54,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja belum terlibat secara langsung pada saat penyusunan Renstra",
+            "pernyataan_id": 54,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada seluruh penyusunan Penetapan Kinerja",
+            "pernyataan_id": 55,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada sebagian besar penyusunan Penetapan Kinerja",
+            "pernyataan_id": 55,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada sebagian kecil penyusunan Penetapan Kinerja",
+            "pernyataan_id": 55,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja belum terlibat secara langsung pada saat penyusunan Penetapan Kinerja",
+            "pernyataan_id": 55,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja memantau seluruh pencapaian kinerja secara berkala",
+            "pernyataan_id": 56,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja memantau sebagian besar pencapaian kinerja secara berkala",
+            "pernyataan_id": 56,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja memantau sebagian kecil pencapaian kinerja secara berkala",
+            "pernyataan_id": 56,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja belum memantau pencapaian kinerja secara berkala",
+            "pernyataan_id": 56,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja memahami kinerja serta strategi pencapaiannya dalam jangka menengah",
+            "pernyataan_id": 57,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung dalam setiap proses  penyusunan dan atau revisi dokumen perencanaan jangka menengah, namun tidak memahami kinerja serta strategi pencapaiannya dalam jangka menengah",
+            "pernyataan_id": 57,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peran pimpinan unit kerja hanya menandatangani dokumen perencanaan jangka menengah",
+            "pernyataan_id": 57,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Dokumen perencanaan jangka menengah tidak ada",
+            "pernyataan_id": 57,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja memahami kinerja yang harus dicapai setiap tahun",
+            "pernyataan_id": 58,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Pimpinan unit kerja terlibat secara langsung dalam setiap proses  penyusunan dan atau revisi dokumen perencanaan kinerja tahunan, namun tidak memahami kinerja yang harus dicapai setiap tahun",
+            "pernyataan_id": 58,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peran pimpinan unit kerja hanya menandatangani dokumen perencanaan kinerja tahunan",
+            "pernyataan_id": 58,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Dokumen perencanaan kinerja tahunan tidak ada",
+            "pernyataan_id": 58,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja menindaklanjuti hasil pemantauan rencana aksi secara berkala",
+            "pernyataan_id": 59,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Pimpinan unit kerja memantau pencapaian rencana aksi secara berkala, namun tidak menindaklanjuti hasil pemantauan rencana aksi secara berkala",
+            "pernyataan_id": 59,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja hanya menyusun rencana aksi pencapaian kinerja secara berkala",
+            "pernyataan_id": 59,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pimpinan unit kerja tidak membuat rencana aksi pencapaian kinerja",
+            "pernyataan_id": 59,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat upaya peningkatan kapasitas seluruh SDM yang menangani akuntabilitas kinerja",
+            "pernyataan_id": 60,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat upaya peningkatan kapasitas sebagian besar SDM yang menangani akuntabilitas kinerja",
+            "pernyataan_id": 60,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat upaya peningkatan kapasitas sebagian kecil SDM yang menangani akuntabilitas kinerja",
+            "pernyataan_id": 60,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada upaya peningkatan kapasitas SDM yang menangani akuntabilitas kinerja",
+            "pernyataan_id": 60,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pemutakhiran data kinerja dilakukan secara bulanan",
+            "pernyataan_id": 61,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pemutakhiran data kinerja dilakukan secara triwulana",
+            "pernyataan_id": 61,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pemutakhiran data kinerja dilakukan secara semesteran",
+            "pernyataan_id": 61,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pemutakhiran data kinerja dilakukan secara tahunan",
+            "pernyataan_id": 61,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pemutakhiran data kinerja belum dilakukan",
+            "pernyataan_id": 61,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Public campaign telah dilakukan secara berkala",
+            "pernyataan_id": 62,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Public campaign dilakukan tidak secara berkala",
+            "pernyataan_id": 62,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan public campaign ",
+            "pernyataan_id": 62,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila UPG melaporkan secara berkala tentang praktek gratifikasi",
+            "pernyataan_id": 63,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila UPG Tidak melaporkan secara berkala tentang praktek gratifikasi",
+            "pernyataan_id": 63,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila terdapat evaluasi atas kebijakan penanganan gratifikasi",
+            "pernyataan_id": 64,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila tidak terdapat evaluasi atas kebijakan penanganan gratifikasi",
+            "pernyataan_id": 64,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila terdapat laporan tindak lanjut ",
+            "pernyataan_id": 65,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila tidak terdapat laporan tindak lanjut ",
+            "pernyataan_id": 65,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja telah mengidentifikasi seluruh lingkungan pengendalian",
+            "pernyataan_id": 66,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja telah mengidentifikasi sebagian lingkungan pengendalian",
+            "pernyataan_id": 66,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja belum mengidentifikasi lingkungan pengendalian",
+            "pernyataan_id": 66,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Unit kerja telah menilai seluruh risiko ",
+            "pernyataan_id": 67,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja telah menilai sebagian besar risiko ",
+            "pernyataan_id": 67,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja telah menilai sebagian kecil risiko ",
+            "pernyataan_id": 67,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Unit kerja belum melaksanakan penilaian risiko ",
+            "pernyataan_id": 67,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Seluruh risiko yang telah diidentifikasi telah diminimalisir melalui kegiatan pengendalian",
+            "pernyataan_id": 68,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar risiko yang telah diidentifikasi telah diminimalisir melalui kegiatan pengendalian",
+            "pernyataan_id": 68,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Sebagian kecil risiko yang telah diidentifikasi telah diminimalisir melalui kegiatan pengendalian",
+            "pernyataan_id": 68,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Risiko belum dikendalikan",
+            "pernyataan_id": 68,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "SPI telah diinformasikan dan dikomunikasikan kepada seluruh pihak terkait",
+            "pernyataan_id": 69,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "SPI telah diinformasikan dan dikomunikasikan kepada sebagian besar pihak terkait ",
+            "pernyataan_id": 69,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "SPI telah diinformasikan dan dikomunikasikan kepada sebagian kecil pihak terkait",
+            "pernyataan_id": 69,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada pihak terkait yang mendapatkan informasi dan komunikasi mengenai SPI",
+            "pernyataan_id": 69,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sistem pengendalian intern dimonitoring dan evaluasi secara berkala",
+            "pernyataan_id": 70,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sistem pengendalian intern dimonitoring dan evaluasi tidak secara berkala",
+            "pernyataan_id": 70,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada monitoring dan evaluasi terhadap  sistem pengendalian intern ",
+            "pernyataan_id": 70,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Monitoring dan evaluasi telah dilakukan secara berkala serta memberikan perbaikan dalam penerapan SPI",
+            "pernyataan_id": 71,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Monitoring dan evaluasi telah dilakukan secara berkala namun belum memberikan perbaikan dalam penerapan SPI",
+            "pernyataan_id": 71,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Monitoring dan evaluasi dilakukan belum secara berkala",
+            "pernyataan_id": 71,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan monitoring dan evaluasi atas penerapan SPI",
+            "pernyataan_id": 71,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Seluruh hasil penanganan pengaduan masyarakat telah ditindaklanjuti",
+            "pernyataan_id": 72,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar Hasil penanganan pengaduan masyarakat telah ditindaklanjuti",
+            "pernyataan_id": 72,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil Hasil penanganan pengaduan masyarakat telah ditindaklanjuti",
+            "pernyataan_id": 72,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada tindak lanjut penanganan pengaduan masyarakat",
+            "pernyataan_id": 72,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Penanganan pengaduan masyarakat dimonitoring dan evaluasi secara berkala ",
+            "pernyataan_id": 73,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan pengaduan masyarakat dimonitoring dan evaluasi tidak secara berkala",
+            "pernyataan_id": 73,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan pengaduan masyarakat belum di monitoring dan evaluasi",
+            "pernyataan_id": 73,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila terdapat laporan hasil evaluasi atas tindak lanjut penanganan pengaduan masyarakat",
+            "pernyataan_id": 74,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila tidak terdapat laporan hasil evaluasi atas tindak lanjut penanganan pengaduan masyarakat",
+            "pernyataan_id": 74,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Whistle blowing system disosialisasikan ke seluruh pegawai",
+            "pernyataan_id": 75,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Whistle blowing system disosialisasikan ke sebagian besar pegawai",
+            "pernyataan_id": 75,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Whistle blowing system disosialisasikan ke sebagian kecil pegawai ",
+            "pernyataan_id": 75,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Whistle blowing system belum disosialisasikan",
+            "pernyataan_id": 75,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Penanganan Benturan Kepentingan telah disosialiasikan ke seluruh pegawai",
+            "pernyataan_id": 76,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan telah disosialiasikan ke sebagian besar pegawai",
+            "pernyataan_id": 76,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan telah disosialiasikan ke sebagian kecil pegawai",
+            "pernyataan_id": 76,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan belum disosialiasikan",
+            "pernyataan_id": 76,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila Penanganan Benturan Kepentingan telah diimplementasikan",
+            "pernyataan_id": 77,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila Penanganan Benturan Kepentingan belum diimplementasikan",
+            "pernyataan_id": 77,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan dimonitoring dan evaluasi secara berkala",
+            "pernyataan_id": 78,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan dimonitoring dan evaluasi tidak secara berkala",
+            "pernyataan_id": 78,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan belum di monitoring dan evaluasi",
+            "pernyataan_id": 78,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Seluruh Hasil evaluasi atas Penanganan Benturan Kepentingan telah ditindaklanjuti",
+            "pernyataan_id": 79,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar Hasil evaluasi atas Penanganan Benturan Kepentingan telah ditindaklanjuti",
+            "pernyataan_id": 79,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil Hasil evaluasi atas Penanganan Benturan Kepentingan telah ditindaklanjuti",
+            "pernyataan_id": 79,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada tindak lanjut atas Penanganan Benturan Kepentingan",
+            "pernyataan_id": 79,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Ya, apabila terdapat Dokumen penandatanganan pakta integritas",
+            "pernyataan_id": 80,
+            "jawaban": "Ya",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak, apabila tidak terdapat Dokumen penandatanganan pakta integritas",
+            "pernyataan_id": 80,
+            "jawaban": "Tidak",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pembangunan zona integritas dilakukan secara intensif",
+            "pernyataan_id": 81,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pembangunan zona integritas dilakikan tidak secara intensif",
+            "pernyataan_id": 81,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada pembangunan zona integritas",
+            "pernyataan_id": 81,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pembangunan zona integritas telah dimonitor dan evaluasi secara berkala",
+            "pernyataan_id": 82,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pembangunan zona integritas telah dimonitor dan evaluasi tidak secara berkala",
+            "pernyataan_id": 82,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pembangunan zona integritas belum di monitor dan evaluasi",
+            "pernyataan_id": 82,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Terdapat penetapan Standar Pelayanan terhadap seluruh jenis pelayanan, dan sesuai asas serta komponen standar pelayanan publik yang berlaku",
+            "pernyataan_id": 83,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat penetapan Standar Pelayanan terhadap sebagian jenis pelayanan, dan sesuai asas serta komponen standar pelayanan publik yang berlaku",
+            "pernyataan_id": 83,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat penetapan Standar Pelayanan terhadap seluruh jenis pelayanan, namun tidak sesuai asas serta komponen standar pelayanan publik yang berlaku",
+            "pernyataan_id": 83,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat penetapan Standar Pelayanan terhadap sebagian jenis pelayanan, namun tidak sesuai asas serta komponen standar pelayanan publik yang berlaku",
+            "pernyataan_id": 83,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Standar Pelayanan belum ditetapkan",
+            "pernyataan_id": 83,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Standar pelayanan telah dimaklumatkan pada seluruh jenis pelayanan dan dipublikasikan minimal di website",
+            "pernyataan_id": 84,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Standar pelayanan telah dimaklumatkan pada sebagian besar jenis pelayanan dan dipublikasikan minimal di website",
+            "pernyataan_id": 84,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Standar pelayanan telah dimaklumatkan pada sebagian kecil  jenis pelayanan dan belum dipublikasikan",
+            "pernyataan_id": 84,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Standar pelayanan belum dimaklumatkan pada seluruh jenis pelayanan dan belum dipublikasikan",
+            "pernyataan_id": 84,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Dilakukan reviu dan perbaikan atas standar pelayanan dan dilakukan dengan melibatkan stakeholders (antara lain : tokoh masyarakat,  akademisi, dunia usaha, dan lembaga swadaya masyarakat), serta memanfaatkan masukan hasil SKM dan pengaduan masyarakat",
+            "pernyataan_id": 85,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Dilakukan reviu dan perbaikan atas standar pelayanan dan dilakukan dengan memanfaatkan masukan hasil SKM dan pengaduan masyarakat, namun tanpa melibatkan stakeholders",
+            "pernyataan_id": 85,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Dilakukan reviu dan perbaikan atas standar pelayanan, namun  dilakukan tanpa memanfaatkan masukan hasil SKM dan pengaduan masyarakat, serta tanpa melibatkan stakeholders",
+            "pernyataan_id": 85,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan reviu dan perbaikan atas standar pelayanan",
+            "pernyataan_id": 85,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Telah dilakukan pelatihan/sosialisasi pelayanan prima, sehingga seluruh petugas/pelaksana layanan memiliki kompetensi sesuai kebutuhan jenis layanan",
+            "pernyataan_id": 86,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan pelatihan/sosialisasi pelayanan prima, sehingga sebagian besar petugas/pelaksana layanan memiliki kompetensi sesuai kebutuhan jenis layanan ",
+            "pernyataan_id": 86,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan pelatihan/sosialisasi pelayanan prima namun secara terbatas, sehingga hanya sebagian kecil petugas/pelaksana layanan yang memiliki kompetensi sesuai kebutuhan jenis layanan ",
+            "pernyataan_id": 86,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Belum dilakukan pelatihan/sosialisasi pelayanan prima, dan seluruh petugas/pelaksana layanan belum memiliki kompetensi sesuai kebutuhan jenis layanan",
+            "pernyataan_id": 86,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh Informasi tentang pelayanan dapat diakses secara online (website/media sosial) dan terhubung dengan sistem informasi pelayanan publik nasional",
+            "pernyataan_id": 87,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh Informasi tentang pelayanan dapat diakses secara online (website/media sosial), namun belum terhubung dengan sistem informasi pelayanan publik nasional",
+            "pernyataan_id": 87,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh Informasi tentang pelayanan belum online, hanya dapat diakses di tempat layanan (intranet dan non elektronik)",
+            "pernyataan_id": 87,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Informasi tentang pelayanan sulit diakses",
+            "pernyataan_id": 87,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Telah terdapat kebijakan pemberian penghargaan dan sanksi yang minimal memenuhi unsur penilaian: disiplin, kinerja, dan hasil penilaian pengguna layanan, dan telah diterapkan ke seluruh petugas/pelaksana layanan",
+            "pernyataan_id": 88,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah terdapat kebijakan pemberian penghargaan dan sanksi yang minimal memenuhi unsur penilaian: disiplin, kinerja, dan hasil penilaian pengguna layanan, namun belum diterapkan ke seluruh petugas/pelaksana layanan",
+            "pernyataan_id": 88,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah terdapat kebijakan pemberian penghargaan dan sanksi, namun belum memenuhi unsur penilaian minimal : disiplin, kinerja, dan hasil penilaian pengguna layanan",
+            "pernyataan_id": 88,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum terdapat kebijakan pemberian penghargaan dan sanksi",
+            "pernyataan_id": 88,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Telah terdapat sistem pemberian kompensasi bila layanan tidak sesuai standar bagi penerima layanan di seluruh jenis layanan",
+            "pernyataan_id": 89,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah terdapat sistem pemberian kompensasi bila layanan tidak sesuai standar bagi penerima layanan di sebagian besar jenis layanan ",
+            "pernyataan_id": 89,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah terdapat sistem pemberian kompensasi bila layanan tidak sesuai standar bagi penerima layanan di sebagian kecil jenis layanan ",
+            "pernyataan_id": 89,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum terdapat sistem pemberian kompensasi bila layanan tidak sesuai standar",
+            "pernyataan_id": 89,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Apabila seluruh pelayanan sudah dilakukan secara terpadu dan sarana prasarana layanan memenuhi standar sarpras",
+            "pernyataan_id": 90,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Apabila sebagian pelayanan sudah dilakukan secara terpadu dan sarana prasarana layanan memenuhi standar sarpras",
+            "pernyataan_id": 90,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Apabila sebagian pelayanan sudah dilakukan secara terpadu, namun sarana prasarana layanan belum memenuhi standar sarpras",
+            "pernyataan_id": 90,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Apabila pelayanan belum terpadu",
+            "pernyataan_id": 90,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Inovasi pelayanan telah mendapatkan pengakuan secara internasional dan/atau nasional dan telah direplikasi oleh instansi lain",
+            "pernyataan_id": 91,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Inovasi pelayanan telah mendapatkan pengakuan secara internasional dan/atau nasional tetapi belum direplikasi oleh instansi lain",
+            "pernyataan_id": 91,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Inovasi pelayanan belum mendapatkan pengakuan secara internasional dan/atau nasional tetapi telah direplikasi oleh instansi lain",
+            "pernyataan_id": 91,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum terdapat inovasi pelayanan",
+            "pernyataan_id": 91,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Terdapat media konsultasi dan pengaduan secara offline dan online, tersedia petugas khusus yang menangani, dan terintegrasi dengan SP4N-LAPOR!",
+            "pernyataan_id": 92,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat media konsultasi dan pengaduan secara offline dan online, tersedia petugas khusus yang menangani namun belum terintegrasi dengan SP4N-LAPOR!",
+            "pernyataan_id": 92,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat media konsultasi dan pengaduan secara offline dan online, namun belum tersedia petugas khusus yang menangani",
+            "pernyataan_id": 92,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hanya terdapat media konsultasi dan pengaduan secara offline",
+            "pernyataan_id": 92,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak terdapat media konsultasi dan pengaduan",
+            "pernyataan_id": 92,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Terdapat unit pengelola khusus untuk konsultasi dan pengaduan, serta SK pengelola SP4N-LAPOR! di level Organisasi",
+            "pernyataan_id": 93,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat unit pengelola khusus untuk konsultasi dan pengaduan, serta surat penugasan pengelola SP4N-LAPOR! di level unit kerja",
+            "pernyataan_id": 93,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat SK pengelola SP4N-LAPOR! di level instansi dan/atau surat penugasan pengelola SP4N-LAPOR! di level unit kerja, namun unit pengelola khusus untuk konsultasi dan pengaduan belum ada",
+            "pernyataan_id": 93,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum terdapat unit pengelola khusus untuk konsultasi dan pengaduan, serta belum terdapat SK pengelola SP4N-LAPOR! di level instansi dan/atau surat penugasan pengelola SP4N-LAPOR! di level unit kerja",
+            "pernyataan_id": 93,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Telah dilakukan tindak lanjut atas seluruh pengaduan pelayanan  untuk perbaikan kualitas pelayanan",
+            "pernyataan_id": 94,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan tindak lanjut atas  sebagian besar pengaduan pelayanan untuk perbaikan kualitas pelayanan",
+            "pernyataan_id": 94,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Telah dilakukan tindak lanjut atas sebagian kecil pengaduan pelayanan unutk perbaikan kualitas pelayanan ",
+            "pernyataan_id": 94,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan tindak lanjut atas pengaduan pelayanan",
+            "pernyataan_id": 94,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Evaluasi atas penanganan keluhan/masukan dan konsultasi dilakukan secara berkala",
+            "pernyataan_id": 95,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Evaluasi  atas penanganan keluhan/masukan dan konsultasi dilakukan  tidak berkala",
+            "pernyataan_id": 95,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan evaluasi penanganan keluhan/masukan dan konsultasi",
+            "pernyataan_id": 95,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Survei kepuasan masyarakat terhadap pelayanan dilakukan minimal 4 kali dalam setahun",
+            "pernyataan_id": 96,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Survei kepuasan masyarakat terhadap pelayanan dilakukan minimal 3 kali dalam setahun",
+            "pernyataan_id": 96,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Survei kepuasan masyarakat terhadap pelayanan dilakukan minimal 2 kali dalam setahun",
+            "pernyataan_id": 96,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Survei kepuasan masyarakat terhadap pelayanan dilakukan minimal 1 kali dalam setahun",
+            "pernyataan_id": 96,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan survei kepuasan masyarakat terhadap pelayanan",
+            "pernyataan_id": 96,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hasil survei kepuasan masyarakat dapat diakses secara online (website, media sosial, dll) dan offline",
+            "pernyataan_id": 97,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hasil survei kepuasan masyarakat hanya dapat diakses secara offline di tempat layanan",
+            "pernyataan_id": 97,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hasil survei kepuasan masyarakat tidak dipublikasi",
+            "pernyataan_id": 97,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Dilakukan tindak lanjut atas seluruh hasil survei kepuasan masyarakat",
+            "pernyataan_id": 98,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Dilakukan tindak lanjut atas sebagian besar hasil survei kepuasan masyarakat",
+            "pernyataan_id": 98,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Dilakukan tindak lanjut atas sebagian kecil hasil survei kepuasan masyarakat",
+            "pernyataan_id": 98,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan tindak lanjut atas hasil survei kepuasan masyarakat",
+            "pernyataan_id": 98,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Terdapat pelayanan yang menggunakan teknologi informasi pada seluruh proses pemberian layanan",
+            "pernyataan_id": 99,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat pelayanan yang menggunakan teknologi informasi pada sebagian besar proses pemberian layanan",
+            "pernyataan_id": 99,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat pelayanan yang menggunakan teknologi informasi pada sebagian kecil proses pemberian layanan",
+            "pernyataan_id": 99,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Terdapat pelayanan yang belum menggunakan teknologi informasi pada proses pemberian pelayanan",
+            "pernyataan_id": 99,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Perbaikan dilakukan secara terus-menerus",
+            "pernyataan_id": 100,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Perbaikan dilakukan tidak secara terus menerus",
+            "pernyataan_id": 100,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum dilakukan perbaikan ",
+            "pernyataan_id": 100,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Target capaian reformasi sudah ada di dokumen perencanaan unit kerja dan sebagian besar (diatas 80%) sudah tercapai",
+            "pernyataan_id": 103,
+            "jawaban": "A",
+            "nilai": 1,
+		    "jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Target capaian reformasi sudah ada di dokumen perencanaan unit kerja dan sebagian (diatas 50%) sudah tercapai",
+            "pernyataan_id": 103,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Target capaian reformasi sudah ada di dokumen perencanaan unit kerja dan sebagian kecil (dibawah 50%) sudah tercapai",
+            "pernyataan_id": 103,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Target capaian reformasi sudah ada di dokumen perencanaan unit kerja, namun belum ada yang tercapai (masih dalam tahap pembangunan)",
+            "pernyataan_id": 103,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak ada target capaian reformasi di dokumen perencanaan unit kerja",
+            "pernyataan_id": 103,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": " Budaya kerja dan nilai-nilai organisasi telah dinternalisasi ke seluruh anggota organisasi, dan penerapannya dituangkan dalam standar operasional pelaksanaan kegiatan/tugas ",
+            "pernyataan_id": 104,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Budaya kerja dan nilai-nilai organisasi telah dinternalisasi ke seluruh anggota organisasi, namun belum dituangkan dalam standar operasional pelaksanaan kegiatan/tugas",
+            "pernyataan_id": 104,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Budaya kerja dan nilai-nilai organisasi telah disusun, namun belum dinternalisasi ke seluruh anggota organisasi",
+            "pernyataan_id": 104,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum menyusun budaya kerja dan nilai-nilai organisasi",
+            "pernyataan_id": 104,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Semua kebijakan yang terbit telah memiliki peta keterkaitan dengan kebijakan lainnya",
+            "pernyataan_id": 105,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kebijakan yang terbit telah memiliki peta keterkaitan dengan kebijakan lainnya",
+            "pernyataan_id": 105,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum memiliki peta keterkaitan kebijakan yang baru terbit dengan kebijakan lainnya",
+            "pernyataan_id": 105,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+
+        {
+            "name": "Sudah ada usulan perubahan organisasi sesuai dengan proses bisnis,  dengan mempertimbangkan kinerja utama yang dihasilkan",
+            "pernyataan_id": 107,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sudah ada usulan perubahan organisasi namun belum mengacu pada proses bisnis/kinerja utama yang dihasilkan",
+            "pernyataan_id": 107,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada usulan",
+            "pernyataan_id": 107,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Peta proses bisnis telah disusun dan mempengaruhi penyederhanaan seluruh jabatan",
+            "pernyataan_id": 108,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta proses bisnis telah disusun dan mempengaruhi penyederhanaan sebagian besar (lebih dari 50%) jabatan",
+            "pernyataan_id": 108,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta proses bisnis telah disusun dan mempengaruhi penyederhanaan sebagian kecil (kurang dari 50%)  jabatan",
+            "pernyataan_id": 108,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta proses bisnis telah disusun dan belum mempengaruhi penyederhanaan jabatan",
+            "pernyataan_id": 108,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Implementasi SPBE telah terintegrasi dan mampu mendorong pelaksanaan pelayanan publik yang lebih cepat dan efisien ",
+            "pernyataan_id": 109,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Implementasi SPBE telah mampu mendorong pelaksanaan pelayanan publik yang lebih cepat dan efisien, namun belum terintegrasi (parsial)",
+            "pernyataan_id": 109,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Implementasi SPBE belum mendorong pelaksanaan pelayanan publik yang lebih cepat dan efisien",
+            "pernyataan_id": 109,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Implementasi SPBE telah terintegrasi dan mampu mendorong pelaksanaan pelayanan internal unit kerja yang lebih cepat dan efisien ",
+            "pernyataan_id": 110,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Implementasi SPBE telah mampu mendorong pelaksanaan pelayanan internal unit kerja yang lebih cepat dan efisien, namun belum terintegrasi (parsial)",
+            "pernyataan_id": 110,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Implementasi SPBE belum mendorong pelaksanaan pelayanan internal unit kerja yang lebih cepat dan efisien",
+            "pernyataan_id": 110,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        }
+        ,{
+            "name": "Kriteria huruf b telah terpenuhi dan penerapan atau penggunaan dari manfaat/dampak dari transformasi digital pada bidang proses bisnis utama bagi unit kerja telah dilakukan validasi dan evaluasi serta ditindaklanjuti secara berkelanjutan.",
+            "pernyataan_id": 111,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf c telah terpenuhi dan manfaat/dampak dari transformasi digital pada bidang proses bisnis utama telah diterapkan/digunakan oleh unit kerja sesuai dengan sasaran dan target manfaat/dampak.",
+            "pernyataan_id": 111,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf d telah terpenuhi dan manfaat/dampak dari transformasi digital pada bidang proses bisnis utama telah mampu direalisasikan pada unit kerja sesuai dengan sasaran dan target manfaat/dampak.",
+            "pernyataan_id": 111,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf e telah terpenuhi dan kapabilitas prakiraan dan pelacakan terhadap sasaran dan target manfaat/dampak dari transformasi digital pada bidang proses bisnis utama.",
+            "pernyataan_id": 111,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+		{
+            "name": "Sasaran dan target manfaat/dampak dari transformasi digital pada bidang proses bisnis utama telah direncanakan, didefinisikan, dan ditetapkan.",
+            "pernyataan_id": 111,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        }		,{
+            "name": "Kriteria huruf b telah terpenuhi dan penerapan atau penggunaan dari manfaat/dampak dari transformasi digital pada bidang administrasi pemerintahan bagi unit kerja telah dilakukan validasi dan evaluasi serta ditindaklanjuti secara berkelanjutan.",
+            "pernyataan_id": 112,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf c telah terpenuhi dan manfaat/dampak dari transformasi digital pada bidang administrasi pemerintahan telah diterapkan/digunakan oleh unit kerja sesuai dengan sasaran dan target manfaat/dampak.",
+            "pernyataan_id": 112,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf d telah terpenuhi dan manfaat/dampak dari transformasi digital pada bidang administrasi pemerintahan telah mampu direalisasikan pada unit kerja sesuai dengan sasaran dan target manfaat/dampak.",
+            "pernyataan_id": 112,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf e telah terpenuhi dan kapabilitas prakiraan dan pelacakan terhadap sasaran dan target manfaat/dampak dari transformasi digital pada bidang administrasi pemerintahan.",
+            "pernyataan_id": 112,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+		{
+            "name": "Sasaran dan target manfaat/dampak dari transformasi digital pada bidang administrasi pemerintahan telah direncanakan, didefinisikan, dan ditetapkan.",
+            "pernyataan_id": 112,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        }
+        ,{
+            "name": "Kriteria huruf b telah terpenuhi dan penerapan atau penggunaan dari manfaat/dampak dari transformasi digital pada bidang pelayanan publik bagi unit kerja telah dilakukan validasi dan evaluasi serta ditindaklanjuti secara berkelanjutan.",
+            "pernyataan_id": 113,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": " Kriteria huruf c telah terpenuhi dan manfaat/dampak dari transformasi digital pada bidang pelayanan publik telah diterapkan/digunakan oleh unit kerja sesuai dengan sasaran dan target manfaat/dampak.",
+            "pernyataan_id": 113,
+            "jawaban": "B",
+            "nilai": 0.75,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf d telah terpenuhi dan manfaat/dampak dari transformasi digital pada bidang pelayanan publik telah mampu direalisasikan pada unit kerja sesuai dengan sasaran dan target manfaat/dampak.",
+            "pernyataan_id": 113,
+            "jawaban": "C",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Kriteria huruf e telah terpenuhi dan kapabilitas prakiraan dan pelacakan terhadap sasaran dan target manfaat/dampak dari transformasi digital pada bidang pelayanan publik.",
+            "pernyataan_id": 113,
+            "jawaban": "D",
+            "nilai": 0.25,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+		{
+            "name": "Sasaran dan target manfaat/dampak dari transformasi digital pada bidang pelayanan publik telah direncanakan, didefinisikan, dan ditetapkan.",
+            "pernyataan_id": 113,
+            "jawaban": "E",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh ukuran kinerja individu telah berorientasi hasil (outcome) sesuai pada levelnya",
+            "pernyataan_id": 114,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian ukuran kinerja individu telah berorientasi hasil (outcome) sesuai pada levelnya",
+            "pernyataan_id": 114,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak ada ukuran kinerja individu yang berorientasi hasil (outcome)",
+            "pernyataan_id": 114,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Seluruh hasil assessment dijadikan dasar mutasi internal dan pengembangan kompetensi pegawai",
+            "pernyataan_id": 115,
+            "jawaban": "A",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hasil assessment belum seluruhnya dijadikan mutasi internal dan pengembangan kompetensi pegawai",
+            "pernyataan_id": 115,
+            "jawaban": "B",
+            "nilai": 0.5,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Hasil assessment belum dijadikan dasar mutasi internal dan pengembangan kompetensi pegawai",
+            "pernyataan_id": 115,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Aplikasi yang terintegrasi telah dimanfaatkan sebagai alat monitoring kinerja sehingga menghasilkan efektivitas dan efisiensi penganggaran",
+            "pernyataan_id": 121,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Aplikais yang terintegrasi telah dimanfaatkan sebagai alat monitoring kinerja namun belum menunjukkan efektivitas dan efisiensi penganggaran",
+            "pernyataan_id": 121,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Aplikasi belum terintegrasi namun sudah dimanfaatkan untuk monitoring kinerja",
+            "pernyataan_id": 121,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Aplikasi belum digunakan untuk pemanfaatan monitoring kinerja",
+            "pernyataan_id": 121,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Seluruh capaian kinerja (Perjanjian Kinerja) merupakan unsur dalam pemberian reward and punishment",
+            "pernyataan_id": 122,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian besar Capaian Kinerja (lebih dari 50% Perjanjian kinerja) merupakan unsur dalam pemberian reward and punishment",
+            "pernyataan_id": 122,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Sebagian kecil Capaian Kinerja (kurang dari 50% Perjanjian kinerja) merupakan unsur dalam pemberian reward and punishment",
+            "pernyataan_id": 122,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Capaian Kinerja (Perjanjian kinerja) belum menjadi unsur dalam pemberian reward and punishment",
+            "pernyataan_id": 122,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Peta strategis (Kerangka Logis) ada dan mengacu pada kinerja utama organisasi  dan digunakan dalam penjabaran kinerja seluruh pegawai;",
+            "pernyataan_id": 123,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta strategis (Kerangka Logis) ada dan mengacu pada kinerja utama organisasi namun belum digunakan dalam penjabaran kinerja seluruh pegawai;",
+            "pernyataan_id": 123,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta strategis (Kerangka Logis) ada namun belum mengacu pada kinerja utama organisasi dan belum digunakan dalam penjabaran kinerja seluruh pegawai;",
+            "pernyataan_id": 123,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Peta strategis (Kerangka Logis) belum ada.",
+            "pernyataan_id": 123,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Upaya dan/atau inovasi yang dilakukan telah mendorong perbaikan seluruh pelayanan publik yang prima (lebih Cepat dan mudah)",
+            "pernyataan_id": 127,
+            "jawaban": "A",
+            "nilai": 1,
+		"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Upaya dan/atau inovasi yang dilakukan belum seluruhnya memberikan dampak pada perbaikan pelayanan public yang prima (Cepat dan mudah)",
+            "pernyataan_id": 127,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Upaya dan/atau inovasi yang dilakukan belum sesuai kebutuhan",
+            "pernyataan_id": 127,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum ada inovasi",
+            "pernyataan_id": 127,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengaduan pelayanan  dan konsultasi telah direspon dengan cepat melalui berbagai kanal/media",
+            "pernyataan_id": 129,
+            "jawaban": "A",
+            "nilai": 1,
+		    "jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengaduan pelayanan dan konsultasi telah direspon dengan cepat melalui kanal/media yang terbatas",
+            "pernyataan_id": 129,
+            "jawaban": "B",
+            "nilai": 0.67,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengaduan pelayanan dan konsultasi direspon lambat melalui berbagai kanal/media",
+            "pernyataan_id": 129,
+            "jawaban": "C",
+            "nilai": 0.33,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Pengaduan pelayanan dan konsultasi direspon lambat dan kanal/media terbatas",
+            "pernyataan_id": 129,
+            "jawaban": "D",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+
+        {
+            "name": "Wajar Tanpa Pengecualian",
+            "pernyataan_id": 130,
+            "jawaban": "WTP",
+            "nilai": 3,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Wajar Dengan Pengecualian",
+            "pernyataan_id": 130,
+            "jawaban": "WDP",
+            "nilai": 2,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak Wajar",
+            "pernyataan_id": 130,
+            "jawaban": "TW",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Tidak Memberikan Pendapat",
+            "pernyataan_id": 130,
+            "jawaban": "TMP",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        },{
+            "name": "Memiliki penghargaan internasional yg terkait dengan Reformasi Birokrasi",
+            "pernyataan_id": 135,
+            "jawaban": "A",
+            "nilai": 2,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Memiliki penghargaan nasional  yg terkait dengan Reformasi Birokrasi",
+            "pernyataan_id": 135,
+            "jawaban": "B",
+            "nilai": 1,
+			"jenis_jawaban": "Pilihan Ganda"
+        },
+        {
+            "name": "Belum memiliki penghargaan  yg terkait dengan Reformasi Birokrasi",
+            "pernyataan_id": 135,
+            "jawaban": "C",
+            "nilai": 0,
+			"jenis_jawaban": "Pilihan Ganda"
+        }
+
+
+
+
+]
+}

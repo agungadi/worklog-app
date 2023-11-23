@@ -1,0 +1,525 @@
+{
+    "data": [
+        {
+            "name": "Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja telah dibentuk",
+			"indikator_id": 1
+        },
+        {
+            "name": "Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokrasi unit kerja telah melaksanakan tugas sesuai rencana kerja",
+			"indikator_id": 1
+        },
+        {
+            "name": "Tim Reformasi Birokrasi/Penanggung jawab Reformasi Birokras unit kerja telah melakukan monitoring dan evaluasi rencana kerja, dan hasil evaluasi telah ditindaklanjuti",
+			"indikator_id": 1
+
+        },
+        {
+            "name": "Rencana Kerja Reformasi Unit Kerja telah disusun dan diformalkan",
+			"indikator_id": 2
+        },
+        {
+            "name": "Telah terdapat sosialisasi/internalisasi Road Map/Rencana Kerja Reformasi Birokrasi unit kerja kepada anggota organisasi",
+			"indikator_id": 2
+
+        },
+        {
+            "name": "Rencana Kerja Reformasi Birokrasi unit kerja selaras dengan Road Map",
+			"indikator_id": 2
+        },
+        {
+            "name": "Pelaksanaan PMPRB dilakukan oleh Asesor sesuai dengan ketentuan yang berlaku",
+			"indikator_id": 3
+
+        },
+        {
+            "name": "Para asesor mencapai konsensus atas pengisian kertas kerja sebelum menetapkan nilai PMPRB",
+			"indikator_id": 3
+        },
+        {
+            "name": "Rencana aksi tindak lanjut (RATL) telah dikomunikasikan dan dilaksanakan",
+			"indikator_id": 3
+
+        },
+        {
+            "name": "Penanggungjawab RB internal unit kerja telah melakukan pemantauan dan evaluasi pelaksanaan rencana kerja",
+			"indikator_id": 3
+        },
+        {
+            "name": "Terdapat keterlibatan pimpinan unit kerja secara aktif dan berkelanjutan dalam pelaksanaan reformasi birokrasi",
+			"indikator_id": 4
+        },
+        {
+            "name": "Terdapat upaya untuk menggerakkan unit kerja dalam melakukan perubahan melalui pembentukan agent of change ataupun role model",
+			"indikator_id": 4
+        },
+        {
+            "name": "Telah dilakukan identifikasi, analisis, dan pemetaan terhadap kebijakan yang tidak harmonis/sinkron/bersifat mengahmbat yang akan direvisi/dihapus",
+			"indikator_id": 5
+        },
+        {
+            "name": "Telah dilakukan revisi kebijakan yang tidak harmonis/tidak sinkron/bersifat menghambat",
+			"indikator_id": 5
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang bertujuan untuk menilai ketepatan fungsi dan ketepatan ukuran organisasi",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang mengukur jenjang organisasi",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemungkinan duplikasi fungsi",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemungkinan adanya pejabat yang melapor kepada lebih dari seorang atasan",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi kesesuaian tugas dan fungsi dengan sasaran kinerja unit kerja di atasnya",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis rentang kendali terhadap struktur yang langsung berada di bawahnya",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kesesuaian struktur organisasi/unit kerja dengan kinerja yang akan dihasilkan",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi atas kesesuaian struktur organisasi dengan mandat /kewenangan",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemungkinan tumpang tindih fungsi dengan unit kerja lain",
+			"indikator_id": 6
+        },
+        {
+            "name": "Telah dilakukan evaluasi yang menganalisis kemampuan struktur organisasi untuk adaptif terhadap perubahan lingkungan strategis",
+			"indikator_id": 6
+        },
+        {
+            "name": "Hasil evaluasi telah ditindaklanjuti dengan mengajukan perubahan organisasi",
+			"indikator_id": 7
+        },
+        {
+            "name": "Hasil evaluasi telah ditindaklanjuti dengan penyederhanaan birokrasi",
+			"indikator_id": 7
+        },
+        {
+            "name": "Telah disusun peta proses bisnis yang sesuai dengan pedoman penyusunan Peta Proses Bisnis",
+			"indikator_id": 8
+        },
+        {
+            "name": "Telah tersedia peta proses bisnis yang sesuai dengan tugas dan fungsi",
+			"indikator_id": 8
+        },
+        {
+            "name": "Telah disusun peta proses bisnis yang sesuai dengan dokumen rencana strategis dan rencana kerja organisasi",
+			"indikator_id": 8
+        },
+        {
+            "name": "Telah memiliki peta proses bisnis yang sesuai dengan tugas dan fungsi dan selaras dengan Kinerja Organisasi secara berjenjang",
+			"indikator_id": 8
+        },
+        {
+            "name": "Peta proses bisnis sudah dijabarkan ke dalam prosedur operasional tetap (SOP)",
+			"indikator_id": 8
+        },
+        {
+            "name": "Telah dilakukan penjabaran peta lintas fungsi (peta level n) ke dalam SOP",
+			"indikator_id": 8
+        },
+        {
+            "name": "Prosedur operasional tetap (SOP) telah diterapkan",
+			"indikator_id": 8
+        },
+        {
+            "name": "Peta proses bisnis dan Prosedur operasional telah dievaluasi dan disesuaikan dengan perkembangan tuntutan efisiensi, dan efektivitas birokrasi",
+			"indikator_id": 8
+        },
+        {
+            "name": "Telah dilakukan evaluasi terhadap peta proses bisnis yang sesuai dengan efektivitas hubungan kerja antar unit organisasi untuk menghasilkan kinerja sesuai dengan tujuan pendirian organisasi",
+			"indikator_id": 8
+        },
+        {
+            "name": "Adanya kebijakan pimpinan tentang keterbukaan informasi publik",
+			"indikator_id": 9
+        },
+        {
+            "name": "Melakukan monitoring dan evaluasi pelaksanaan kebijakan keterbukaan informasi publik",
+			"indikator_id": 9
+        },
+        {
+            "name": "Perhitungan kebutuhan pegawai telah dilakukan sesuai kebutuhan unit kerja",
+			"indikator_id": 10
+        },
+        {
+            "name": "Analisis jabatan dan analisis beban kerja telah dilakukan",
+			"indikator_id": 10
+        },
+        {
+            "name": "Analisis jabatan dan analisis beban kerja telah sesuai kebutuhan unit kerja dan selaras dengan kinerja utama",
+			"indikator_id": 10
+        },
+        {
+            "name": "Telah diidentifikasi kebutuhan pengembangan kompetensi",
+			"indikator_id": 11
+        },
+        {
+            "name": "Telah dilakukan pengembangan pegawai berbasis kompetensi sesuai dengan rencana  dan kebutuhan pengembangan kompetensi",
+			"indikator_id": 11
+        },
+        {
+            "name": "Penerapan Penetapan kinerja individu",
+			"indikator_id": 12
+        },
+        {
+            "name": "Terdapat penilaian kinerja individu yang terkait dengan kinerja organisasi ",
+			"indikator_id": 12
+        },
+        {
+            "name": "Ukuran kinerja individu telah memiliki kesesuaian dengan indikator kinerja individu level diatasnya",
+			"indikator_id": 12
+        },
+        {
+            "name": "Pengukuran kinerja individu dilakukan secara periodik",
+			"indikator_id": 12
+        },
+        {
+            "name": "Telah dilakukan monitoring dan evaluasi atas pencapaian kinerja individu.",
+			"indikator_id": 12
+        },
+        {
+            "name": "Hasil penilaian kinerja individu telah dijadikan dasar untuk pengembangan karir individu/pemberian reward and punishment lainnya",
+			"indikator_id": 12
+        },
+        {
+            "name": "Aturan disiplin/kode etik/kode perilaku instansi telah ditetapkan",
+			"indikator_id": 13
+        },
+        {
+            "name": "Adanya monitoring dan evaluasi atas pelaksanaan aturan disiplin/kode etik/kode perilaku",
+			"indikator_id": 13
+        },
+        {
+            "name": "Unit kerja telah mengimplementasikan Standar Kompetensi Jabatan (SKJ)",
+			"indikator_id": 14
+        },
+        {
+            "name": "Unit kerja telah melaksanakan evaluasi jabatan  berdasarkan SKJ",
+			"indikator_id": 14
+        },
+        {
+            "name": "Sistem informasi kepegawaian dapat diakses oleh pegawai",
+			"indikator_id": 15
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada saat penyusunan Renstra",
+			"indikator_id": 16
+        },
+        {
+            "name": "Pimpinan unit kerja terlibat secara langsung pada saat penyusunan Penetapan Kinerja",
+			"indikator_id": 16
+        },
+        {
+            "name": "Pimpinan unit kerja memantau pencapaian kinerja secara berkala",
+			"indikator_id": 16
+        },
+        {
+            "name": "Pimpinan unit kerja telah memahami kinerja yang harus dicapai dalam jangka menengah",
+			"indikator_id": 16
+        },
+        {
+            "name": "Pimpinan unit kerja memahami kinerja yang diperjanjikan di setiap tahun",
+			"indikator_id": 16
+        },
+        {
+            "name": "Pimpinan unit kerja memantau pencapaian kinerja secara berkala",
+			"indikator_id": 16
+        },
+        {
+            "name": "Terdapat upaya peningkatan kapasitas SDM yang menangani akuntabilitas kinerja",
+			"indikator_id": 17
+        },
+        {
+            "name": "Pemutakhiran data kinerja dilakukan secara berkala",
+			"indikator_id": 17
+        },
+        {
+            "name": "Telah dilakukan public campaign",
+			"indikator_id": 18
+        },
+        {
+            "name": "Penanganan gratifikasi telah diimplementasikan",
+			"indikator_id": 18
+        },
+        {
+            "name": "Telah dilakukan evaluasi atas kebijakan penanganan gratifikasi",
+			"indikator_id": 18
+        },
+        {
+            "name": "Hasil evaluasi atas penanganan gratifikasi telah ditindaklanjuti ",
+			"indikator_id": 18
+        },
+        {
+            "name": "Telah mengidentifikasi lingkungan pengendalian",
+			"indikator_id": 19
+        },
+        {
+            "name": "Telah dilakukan penilaian risiko unit kerja",
+			"indikator_id": 19
+        },
+        {
+            "name": "Telah dilakukan kegiatan pengendalian untuk meminimalisir risiko yang telah diidentifikasi",
+			"indikator_id": 19
+        },
+        {
+            "name": "Sistem Pengendalian Internal (SPI) telah diinformasikan dan dikomunikasikan kepada seluruh pihak terkait",
+			"indikator_id": 19
+        },
+        {
+            "name": "Telah dilakukan pemantauan pengendalian intern",
+			"indikator_id": 19
+        },
+        {
+            "name": "Unit kerja telah melakukan evaluasi atas Penerapan SPI",
+			"indikator_id": 19
+        },
+        {
+            "name": "Hasil penanganan pengaduan masyarakat telah ditindaklanjuti ",
+			"indikator_id": 20
+        },
+        {
+            "name": "Telah dilakukan evaluasi atas penanganan pengaduan masyarakat",
+			"indikator_id": 20
+        },
+        {
+            "name": "Hasil evaluasi atas penanganan pengaduan masyarakat telah ditindaklanjuti ",
+			"indikator_id": 20
+        },
+        {
+            "name": "Whistle Blowing System telah disosialisasikan",
+			"indikator_id": 21
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan telah disosialisasikan",
+			"indikator_id": 22
+        },
+        {
+            "name": "Penanganan Benturan Kepentingan telah diimplementasikan",
+			"indikator_id": 22
+        },
+        {
+            "name": "Telah dilakukan evaluasi atas Penanganan Benturan Kepentingan",
+			"indikator_id": 22
+        },
+        {
+            "name": "Hasil evaluasi atas Penanganan Benturan Kepentingan telah ditindaklanjuti",
+			"indikator_id": 22
+        },
+        {
+            "name": "Telah dilakukan pencanangan Pembangunan zona integritas level unit kerja",
+			"indikator_id": 23
+        },
+        {
+            "name": "Telah dilakukan pembangunan zona integritas",
+			"indikator_id": 23
+        },
+        {
+            "name": "Telah dilakukan evaluasi atas pembangunan zona integritas",
+			"indikator_id": 23
+        },
+        {
+            "name": "Terdapat kebijakan standar pelayanan",
+			"indikator_id": 24
+        },
+        {
+            "name": "Standar pelayanan telah dimaklumatkan",
+			"indikator_id": 24
+        },
+        {
+            "name": "Dilakukan reviu dan perbaikan atas standar pelayanan",
+			"indikator_id": 24
+        },
+        {
+            "name": "Telah dilakukan berbagai upaya peningkatan kemampuan dan/atau kompetensi tentang penerapan budaya pelayanan prima",
+			"indikator_id": 25
+        },
+        {
+            "name": "Informasi tentang pelayanan mudah diakses melalui berbagai media ",
+			"indikator_id": 25
+        },
+        {
+            "name": "Telah terdapat sistem pemberian penghargaan dan sanksi bagi petugas pemberi pelayanan",
+			"indikator_id": 25
+        },
+        {
+            "name": "Telah terdapat sistem pemberian kompensasi kepada penerima layanan bila layanan tidak sesuai standar",
+			"indikator_id": 25
+        },
+        {
+            "name": "Telah terdapat sarana layanan terpadu/terintegrasi",
+			"indikator_id": 25
+        },
+        {
+            "name": "Telah terdapat inovasi pelayanan",
+			"indikator_id": 25
+        },
+        {
+            "name": "Terdapat media pengaduan dan konsultasi pelayanan",
+			"indikator_id": 26
+        },
+        {
+            "name": "Terdapat unit yang mengelola pengaduan dan konsultasi pelayanan",
+			"indikator_id": 26
+        },
+        {
+            "name": "Telah dilakukan tindak lanjut atas seluruh pengaduan pelayanan untuk perbaikan kualitas pelayanan",
+			"indikator_id": 26
+        },
+        {
+            "name": "Telah dilakukan evaluasi atas penanganan keluhan/masukan dan konsultasi",
+			"indikator_id": 26
+        },
+        {
+            "name": "Dilakukan survei kepuasan masyarakat terhadap pelayanan",
+			"indikator_id": 27
+        },
+        {
+            "name": "Hasil survei kepuasan masyarakat dapat diakses secara terbuka",
+			"indikator_id": 27
+        },
+        {
+            "name": "Dilakukan tindak lanjut atas hasil survei kepuasan masyarakat",
+			"indikator_id": 27
+        },
+        {
+            "name": "Telah menerapkan teknologi informasi dalam memberikan pelayanan",
+			"indikator_id": 28
+        },
+        {
+            "name": "Telah dilakukan perbaikan secara terus menerus",
+			"indikator_id": 28
+        },
+        {
+            "name": "Agen perubahan telah membuat perubahan yang konkret di Instansi",
+			"indikator_id": 29
+        },
+        {
+            "name": "Perubahan yang dibuat Agen Perubahan telah terintegrasi dalam sistem manajemen",
+			"indikator_id": 29
+        },
+        {
+            "name": "Pimpinan memiliki komitmen terhadap pelaksanaan reformasi birokrasi, dengan adanya target capaian reformasi yang jelas di dokumen perencanaan",
+			"indikator_id": 30
+        },
+        {
+            "name": "Instansi membangun budaya kerja positif dan menerapkan nilai-nilai organisasi dalam pelaksanaan tugas sehari-hari",
+			"indikator_id": 31
+        },
+        {
+            "name": "Kebijakan yang diterbitkan memiliki peta keterkaitan dengan kebijakan lainnya",
+			"indikator_id": 32
+        },
+        {
+            "name": "Kebijakan terkait pelayanan dan atau perizinan yang diterbitkan memuat unsur kemudahan dan efisiensi pelayanan utama unit kerja",
+			"indikator_id": 32
+        },
+        {
+            "name": "Penyesuaian organisasi dalam rangka mewujudkan organisasi yang efektif, efisien dan tepat ukuran sesuai dengan proses bisnis,  dengan mempertimbangkan kinerja utama yang dihasilkan.",
+			"indikator_id": 33
+        },
+        {
+            "name": "Telah disusun peta proses bisnis dengan adanya penyederhanaan jabatan",
+			"indikator_id": 34
+        },
+        {
+            "name": "Implementasi SPBE telah terintegrasi dan mampu mendorong pelaksanaan pelayanan publik yang lebih cepat dan efisien",
+			"indikator_id": 35
+        },
+        {
+            "name": "Implementasi SPBE telah terintegrasi dan mampu mendorong pelaksanaan pelayanan internal organisasi yang lebih cepat dan efisien",
+			"indikator_id": 35
+        },
+        {
+            "name": "Transformasi digital pada bidang proses bisnis utama telah mampu memberikan nilai manfaat bagi unit kerja secara optimal ",
+			"indikator_id": 36
+        },
+        {
+            "name": "Transformasi digital pada bidang administrasi pemerintahan telah mampu memberikan nilai manfaat bagi unit kerja secara optimal",
+			"indikator_id": 36
+        },
+        {
+            "name": "Transformasi digital pada bidang pelayanan publik telah mampu memberikan nilai manfaat bagi unit kerja secara optimal",
+			"indikator_id": 36
+        },
+        {
+            "name": "Ukuran kinerja individu telah berorientasi hasil (outcome) sesuai pada levelnya",
+			"indikator_id": 37
+        },
+        {
+            "name": "Hasil assessment telah dijadikan pertimbangan untuk mutasi dan pengembangan karir pegawai",
+			"indikator_id": 38
+        },
+        {
+            "name": "Penurunan pelanggaran disiplin pegawai",
+			"indikator_id": 39
+        },
+        {
+            "name": "Jumlah Program/Kegiatan yang ada sebelumnya:",
+			"indikator_id": 40
+        },
+        {
+            "name": "Jumlah Program/Kegiatan yang mendukung tercapainya kinerja utama organisasi:",
+			"indikator_id": 40
+        },
+        {
+            "name": "Persentase Sasaran dengan capaian 100% atau lebih",
+			"indikator_id": 40
+        },
+        {
+            "name": "Persentase Anggaran yang berhasil direfocussing untuk mendukung tercapainya kinerja utama organisasi:",
+			"indikator_id": 40
+        },
+        {
+            "name": "Aplikasi yang terintegrasi telah dimanfaatkan untuk menciptakan efektifitas dan efisiensi anggaran",
+			"indikator_id": 41
+        },
+        {
+            "name": "Hasil Capaian/Monitoring Perjanjian Kinerja telah dijadikan dasar sebagai pemberian reward and punishment oleh unit kerja",
+			"indikator_id": 42
+        },
+        {
+            "name": "Terdapat Peta strategis yang mengacu pada kinerja utama (Kerangka Logis Kinerja) organisasi dan dijadikan dalam penentuan kinerja seluruh pegawai",
+			"indikator_id": 43
+        },
+        {
+            "name": "Persentase Penanganan Pengaduan Masyarakat",
+			"indikator_id": 44
+        },
+        {
+            "name": "Persentase penyampaian LHKASN",
+			"indikator_id": 45
+        },
+        {
+            "name": "Persentase Penanganan Pengaduan Masyarakat",
+			"indikator_id": 46
+        },
+        {
+            "name": "Upaya dan/atau inovasi telah mendorong perbaikan pelayanan publik pada",
+			"indikator_id": 47
+        },
+        {
+            "name": "Upaya dan/atau inovasi pada perijinan/pelayanan telah dipermudah",
+			"indikator_id": 47
+        },
+        {
+            "name": "Penanganan pengaduan pelayanan dan konsultasi dilakukan melalui berbagai kanal/media secara responsive dan bertanggung jawab",
+			"indikator_id": 48
+        }
+
+    ]
+}

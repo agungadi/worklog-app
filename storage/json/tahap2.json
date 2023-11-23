@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "PEMENUHAN",
+			"kelompok_id" : 1,
+			"bobot" : 20
+        },
+		{
+            "name": "REFORM",
+			"kelompok_id" : 1,
+			"bobot" : 30
+        },
+		{
+            "name": "HASIL ANTARA AREA PERUBAHAN",
+			"kelompok_id" : 1,
+			"bobot" : 10
+        },
+        {
+            "name": "HASIL",
+			"kelompok_id" : 2,
+			"bobot" : 40
+        }
+    ]
+}

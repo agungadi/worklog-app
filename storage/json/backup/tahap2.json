@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "PEMENUHAN",
+			"kelompok_id" : 1,
+			"bobot" : 20
+        },
+        {
+            "id": 2,
+            "name": "HASIL ANTARA AREA PERUBAHAN",
+			"kelompok_id" : 1,
+			"bobot" : 10
+        },
+		{
+            "id": 3,
+            "name": "REFORM",
+			"kelompok_id" : 1,
+			"bobot" : 30
+        },
+
+		 {
+            "id": 4,
+            "name": "AKUNTABILITAS KINERJA DAN KEUANGAN",
+			"kelompok_id" : 2,
+			"bobot" : 10
+		 },
+		 {
+            "id": 5,
+            "name": "KUALITAS PELAYANAN PUBLIK ",
+			"kelompok_id" : 2,
+			"bobot" : 10
+		 },
+		 {
+            "id": 6,
+            "name": "PEMERINTAH YANG BERSIH DAN BEBAS KKN",
+			"kelompok_id" : 2,
+			"bobot" : 10
+		 },
+		 {
+            "id": 7,
+            "name": "KINERJA ORGANISASI",
+			"kelompok_id" : 2,
+			"bobot" : 10
+		 }
+    ]
+}
