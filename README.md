@@ -7,7 +7,7 @@ Role HR :
 -  Melihat Report Harian pada worklog setiap pegawai menggunakan fitur filter pegawai.
 -  Melihat Report Bulanan pada worklog setiap pegawai menggunakan fitur filter pegawai.
 
-Role HR :
+Role Pegawai :
 - Mengelola worklog
 - Mengelola Project
 - Melihat history/laporan harian worklog
