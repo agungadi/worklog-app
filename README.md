@@ -23,4 +23,11 @@ Status worklog :
 - Report monthly menampilkan jumlah poin jam kerja selama sebulan, total poin hadir/presensi kerja, total jam kerja selama sebulan, total kehadiran/presensi selama sebulan, total absen/tidak masuk kerja selaam sebulan.
 - poin total hadir selama sebulan didapat dari jumlah_masuk_kerja/20
 
+##addition JWT API
+Jalankan pada Postman :
+- Login = 127.0.0.1:8000/api/login
+- data user = = 127.0.0.1:8000/api/getuser
+- Melihat worklog + 127.0.0.1:8000/api/myworklog
+
+
 
